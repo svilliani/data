@@ -1,0 +1,1026 @@
+id,nombre,apellido,genero,email,pais,provincia,matematica,fisica,literatura,programacion
+1,Máximo,Elizalde,M,máximo.elizalde@universidadvirtual.edu.ar,Argentina,La Pampa,7,61,8,44,3,95,9,29
+31,Juan,Núñez,M,juan.núñez@universidadvirtual.edu.ar,Argentina,Córdoba,7,96,6,62,2,62,5,76
+131,Juan,Bernal,M,juan.bernal@universidadvirtual.edu.ar,Argentina,Santa Fe,4,9,9,52,1,18,5,62
+2,Valentina,Saucedo,F,valentina.saucedo@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,21,8,72,9,71,8,45
+4,Valentina,Escamilla,F,valentina.escamilla@universidadvirtual.edu.ar,Argentina,Tucumán,9,6,2,95,1,63,7,62
+67,Valentina,Molina,F,valentina.molina@universidadvirtual.edu.ar,Argentina,Entre Ríos,7,35,7,97,9,39,2,49
+73,Valentina,Barrios,F,valentina.barrios@universidadvirtual.edu.ar,Argentina,Chubut,2,77,1,35,5,73,2,2
+15,María,Ledezma,F,maría.ledezma@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,9,6,7,28,7,98,2,87
+101,María,Rosales,F,maría.rosales@universidadvirtual.edu.ar,Argentina,Buenos Aires,5,41,8,96,3,97,8,38
+3,Álvaro,Álvarez,M,álvaro.álvarez@universidadvirtual.edu.ar,Argentina,Río Negro,4,92,2,12,8,69,7,39
+95,Ana,Heredia,F,ana.heredia@universidadvirtual.edu.ar,Argentina,Santa Fe,8,95,5,89,6,18,3,94
+5,Julieta,Cabrera,F,julieta.cabrera@universidadvirtual.edu.ar,Argentina,Misiones,3,55,6,76,3,99,5,5
+112,Julieta,Falcón,F,julieta.falcón@universidadvirtual.edu.ar,Argentina,Chubut,4,99,9,22,2,31,9,47
+68,Luis,Villaseñor,M,luis.villaseñor@universidadvirtual.edu.ar,Argentina,Misiones,2,77,5,34,7,75,3,33
+74,Luis,Ortega,M,luis.ortega@universidadvirtual.edu.ar,Argentina,La Rioja,4,23,5,41,6,8,4,09
+134,Luis,Rodríguez,M,luis.rodríguez@universidadvirtual.edu.ar,Argentina,Córdoba,9,99,6,34,4,96,1,93
+6,Leandro,Ponce,M,leandro.ponce@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,27,2,88,4,51,7,35
+7,Federico,Noriega,M,federico.noriega@universidadvirtual.edu.ar,Argentina,Chubut,9,73,6,91,4,81,8,66
+57,Federico,Lara,M,federico.lara@universidadvirtual.edu.ar,Argentina,Santiago del Estero,8,97,7,2,88,7,52
+61,Federico,Barrios,M,federico.barrios@universidadvirtual.edu.ar,Argentina,Catamarca,5,3,1,94,3,45,8,87
+139,Federico,Lepe,M,federico.lepe@universidadvirtual.edu.ar,Argentina,Neuquén,4,54,5,95,4,6,4,85
+116,Diego,Delgado,M,diego.delgado@universidadvirtual.edu.ar,Argentina,Entre Ríos,1,26,5,84,7,98,3,81
+8,Jorge,Escobar,M,jorge.escobar@universidadvirtual.edu.ar,Argentina,Tucumán,6,54,9,17,5,61,5,78
+9,Celeste,Elizalde,F,celeste.elizalde@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,1,99,5,11,8,32,3,23
+10,Rafael,Lepe,M,rafael.lepe@universidadvirtual.edu.ar,Argentina,Santa Cruz,6,07,9,96,1,78,7,07
+50,Rafael,Durán,M,rafael.durán@universidadvirtual.edu.ar,Argentina,Jujuy,6,17,5,29,8,18,1,35
+11,Nayla,Negrón,F,nayla.negrón@universidadvirtual.edu.ar,Argentina,Salta,9,44,1,98,5,04,7,57
+93,Nayla,Tello,F,nayla.tello@universidadvirtual.edu.ar,Argentina,San Luis,9,53,7,09,2,99,6,78
+122,Nayla,Leyva,F,nayla.leyva@universidadvirtual.edu.ar,Argentina,Neuquén,1,05,2,82,1,71,6,45
+78,Miguel,Amaya,M,miguel.amaya@universidadvirtual.edu.ar,Argentina,La Rioja,8,39,4,42,3,98,6,25
+92,Miguel,Beltrán,M,miguel.beltrán@universidadvirtual.edu.ar,Argentina,Chubut,3,34,9,83,1,4,4,71
+12,Ian,Girón,M,ian.girón@universidadvirtual.edu.ar,Argentina,San Juan,5,53,8,32,3,56,4,89
+82,Ian,Piña,M,ian.piña@universidadvirtual.edu.ar,Argentina,Santiago del Estero,5,34,6,21,3,25,3,71
+105,Ian,Mares,M,ian.mares@universidadvirtual.edu.ar,Argentina,La Pampa,4,31,2,13,3,41,2,75
+130,Ian,Del Río,M,ian.del río@universidadvirtual.edu.ar,Argentina,Misiones,6,71,7,18,7,12,4,47
+13,Marcos,Dávalos,M,marcos.dávalos@universidadvirtual.edu.ar,Argentina,Catamarca,4,17,9,48,4,91,1,62
+108,Andrés,Castañón,M,andrés.castañón@universidadvirtual.edu.ar,Argentina,Neuquén,4,18,4,95,8,88,2,23
+14,Luz,Del Toro,F,luz.del toro@universidadvirtual.edu.ar,Argentina,Misiones,7,95,1,08,3,42,5,27
+72,Luz,Castro,F,luz.castro@universidadvirtual.edu.ar,Argentina,Formosa,2,47,6,72,2,6,9,87
+17,Sofía,Camacho,F,sofía.camacho@universidadvirtual.edu.ar,Argentina,Entre Ríos,7,58,1,87,7,84,8,42
+124,Nicolás,Vázquez,M,nicolás.vázquez@universidadvirtual.edu.ar,Argentina,Río Negro,7,81,3,18,3,1,81
+16,Hugo,Cárdenas,M,hugo.cárdenas@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,41,4,77,6,58,9,88
+111,Hugo,Manríquez,M,hugo.manríquez@universidadvirtual.edu.ar,Argentina,Río Negro,9,26,5,85,5,34,2,11
+18,Agustín,Maldonado,M,agustín.maldonado@universidadvirtual.edu.ar,Argentina,San Luis,9,8,9,42,6,17,3,7
+138,Agustín,Bernal,M,agustín.bernal@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,7,4,09,6,71,3,44
+19,Javier,Bañuelos,M,javier.bañuelos@universidadvirtual.edu.ar,Argentina,Jujuy,7,98,3,3,2,83,7,59
+22,Javier,Ramírez,M,javier.ramírez@universidadvirtual.edu.ar,Argentina,Río Negro,9,62,1,33,6,7,6,23
+20,Ángeles,Serrano,F,ángeles.serrano@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,2,1,5,65,5,06,5,35
+52,Ángeles,Manríquez,F,ángeles.manríquez@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,85,3,4,86,7,64
+64,Camila,Alvarado,F,camila.alvarado@universidadvirtual.edu.ar,Argentina,Jujuy,7,89,6,8,1,68,9,96
+21,Axel,Bañuelos,M,axel.bañuelos@universidadvirtual.edu.ar,Argentina,Buenos Aires,7,22,6,87,3,37,5,88
+34,Daniela,Céspedes,F,daniela.céspedes@universidadvirtual.edu.ar,Argentina,Corrientes,3,04,5,83,2,63,8,73
+81,Daniela,Lemus,F,daniela.lemus@universidadvirtual.edu.ar,Argentina,Chubut,9,44,8,42,4,18,6,95
+23,Dante,León,M,dante.león@universidadvirtual.edu.ar,Argentina,Santa Cruz,1,71,8,59,4,2,1,92
+26,Dante,Oyola,M,dante.oyola@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,2,24,1,96,4,92,1,84
+106,Dante,Méndez,M,dante.méndez@universidadvirtual.edu.ar,Argentina,Entre Ríos,4,99,6,84,8,29,4,98
+121,Martín,Tovar,M,martín.tovar@universidadvirtual.edu.ar,Argentina,San Luis,9,4,8,91,1,43,5,94
+129,Martín,Villalobos,M,martín.villalobos@universidadvirtual.edu.ar,Argentina,Mendoza,3,98,1,69,1,23,1,46
+24,Valentín,Delgadillo,M,valentín.delgadillo@universidadvirtual.edu.ar,Argentina,Río Negro,3,54,1,59,5,89,5,1
+25,Carla,Tinoco,F,carla.tinoco@universidadvirtual.edu.ar,Argentina,Córdoba,6,38,4,63,9,21,5,71
+40,Joaquín,Escobar,M,joaquín.escobar@universidadvirtual.edu.ar,Argentina,Santa Fe,5,49,1,67,7,92,3,72
+27,Noelia,Chacón,F,noelia.chacón@universidadvirtual.edu.ar,Argentina,Salta,8,01,3,85,1,19,7,75
+28,Olivia,González,F,olivia.gonzález@universidadvirtual.edu.ar,Argentina,Jujuy,9,01,7,62,1,47,3,73
+32,Olivia,Maldonado,F,olivia.maldonado@universidadvirtual.edu.ar,Argentina,Santa Cruz,3,81,6,74,8,31,9,87
+140,Milagros,Bautista,F,milagros.bautista@universidadvirtual.edu.ar,Argentina,Chaco,9,87,9,53,2,54,5,21
+29,Agustina,Enciso,F,agustina.enciso@universidadvirtual.edu.ar,Argentina,Entre Ríos,8,71,3,89,2,33,8,5
+30,Zoe,Muñoz,F,zoe.muñoz@universidadvirtual.edu.ar,Argentina,Buenos Aires,3,38,7,39,2,56,3,12
+41,Zoe,Colón,F,zoe.colón@universidadvirtual.edu.ar,Argentina,Misiones,4,68,9,8,2,6,1,92
+96,Zoe,Delgado,F,zoe.delgado@universidadvirtual.edu.ar,Argentina,Salta,8,6,5,16,5,73,6,79
+117,Zoe,Rangel,F,zoe.rangel@universidadvirtual.edu.ar,Argentina,La Pampa,3,24,2,67,7,69,7,88
+99,Martina,Enciso,F,martina.enciso@universidadvirtual.edu.ar,Argentina,La Rioja,9,56,2,88,5,39,2,84
+62,Lucas,Maldonado,M,lucas.maldonado@universidadvirtual.edu.ar,Argentina,San Juan,4,67,8,82,1,48,5,6
+43,Renata,Pineda,F,renata.pineda@universidadvirtual.edu.ar,Argentina,Jujuy,8,55,8,88,5,51,2,88
+56,Renata,Lozada,F,renata.lozada@universidadvirtual.edu.ar,Argentina,Santa Fe,8,72,8,55,5,06,5,84
+144,Renata,Roque,F,renata.roque@universidadvirtual.edu.ar,Argentina,Santa Fe,9,9,1,56,9,27,8,09
+33,Graciela,Cardona,F,graciela.cardona@universidadvirtual.edu.ar,Argentina,Salta,6,95,5,9,31,2,65
+107,Franco,Juárez,M,franco.juárez@universidadvirtual.edu.ar,Argentina,Buenos Aires,2,1,76,1,86,7,2
+35,Thiago,Matos,M,thiago.matos@universidadvirtual.edu.ar,Argentina,Mendoza,5,99,3,38,5,71,1,66
+55,Thiago,Valenzuela,M,thiago.valenzuela@universidadvirtual.edu.ar,Argentina,San Juan,8,79,1,6,6,45,4,46
+143,Benjamín,Vargas,M,benjamín.vargas@universidadvirtual.edu.ar,Argentina,San Luis,3,48,6,91,1,79,9,87
+36,Matías,Díaz,M,matías.díaz@universidadvirtual.edu.ar,Argentina,Neuquén,8,08,5,34,7,37,2,84
+37,Antonella,Andrada,F,antonella.andrada@universidadvirtual.edu.ar,Argentina,Salta,5,61,7,82,1,75,1,33
+38,Lourdes,Sandoval,F,lourdes.sandoval@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,1,6,15,1,33,8,33
+125,Lourdes,Peña,F,lourdes.peña@universidadvirtual.edu.ar,Argentina,Santa Fe,5,2,1,62,3,32,4,61
+80,Josefina,Maturana,F,josefina.maturana@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,22,4,06,7,22,7,73
+39,Lara,Gómez,F,lara.gómez@universidadvirtual.edu.ar,Argentina,San Juan,3,61,9,29,6,71,2,75
+133,Julián,Escobar,M,julián.escobar@universidadvirtual.edu.ar,Argentina,Santa Fe,6,69,2,58,3,07,1,77
+142,Julián,Benítez,M,julián.benítez@universidadvirtual.edu.ar,Argentina,Chubut,8,15,7,81,4,73,7,08
+42,Facundo,Roldán,M,facundo.roldán@universidadvirtual.edu.ar,Argentina,Formosa,7,45,7,63,3,78,4,72
+102,Simón,Macías,M,simón.macías@universidadvirtual.edu.ar,Argentina,Salta,8,3,3,27,4,59,6,07
+44,Mariana,Juárez,F,mariana.juárez@universidadvirtual.edu.ar,Argentina,Tucumán,1,19,5,39,8,7,6,58
+45,Kevin,Robledo,M,kevin.robledo@universidadvirtual.edu.ar,Argentina,Neuquén,2,46,3,32,7,49,5,53
+90,Kevin,López,M,kevin.lópez@universidadvirtual.edu.ar,Argentina,San Luis,9,19,6,9,7,41,5,82
+141,Kevin,Colón,M,kevin.colón@universidadvirtual.edu.ar,Argentina,Córdoba,6,6,5,75,8,49,5,93
+128,Ramiro,Bautista,M,ramiro.bautista@universidadvirtual.edu.ar,Argentina,San Luis,2,06,3,64,8,02,5,64
+46,Enzo,Nieves,M,enzo.nieves@universidadvirtual.edu.ar,Argentina,La Rioja,8,31,5,91,4,11,6,33
+47,Manuel,García,M,manuel.garcía@universidadvirtual.edu.ar,Argentina,Jujuy,2,55,5,96,6,51,7,6
+48,Marcelo,Troncoso,M,marcelo.troncoso@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,3,69,1,1,1,59,4,17
+49,Malena,Varela,F,malena.varela@universidadvirtual.edu.ar,Argentina,Catamarca,1,29,1,91,5,96,3,95
+86,Malena,Tejada,F,malena.tejada@universidadvirtual.edu.ar,Argentina,Formosa,2,96,6,45,4,69,9,79
+51,Omar,Del Río,M,omar.del río@universidadvirtual.edu.ar,Argentina,Santa Cruz,5,38,4,06,2,58,2,48
+63,Omar,Rodríguez,M,omar.rodríguez@universidadvirtual.edu.ar,Argentina,Santa Cruz,1,19,5,86,7,13,5,5
+104,Omar,Paredes,M,omar.paredes@universidadvirtual.edu.ar,Argentina,Neuquén,8,6,7,21,3,67,9,31
+53,Sergio,Aguayo,M,sergio.aguayo@universidadvirtual.edu.ar,Argentina,Mendoza,1,71,1,58,9,5,6,31
+135,Sergio,Encinas,M,sergio.encinas@universidadvirtual.edu.ar,Argentina,La Rioja,2,64,6,36,1,86,3,15
+54,Ezequiel,Tamez,M,ezequiel.tamez@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,75,8,06,6,07,5,14
+94,Ezequiel,Almonte,M,ezequiel.almonte@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,9,27,6,24,4,75,5,41
+97,Elías,Rojas,M,elías.rojas@universidadvirtual.edu.ar,Argentina,Tucumán,7,28,5,19,6,09,9,66
+127,Catalina,Requena,F,catalina.requena@universidadvirtual.edu.ar,Argentina,La Rioja,5,61,7,4,9,17,3,46
+58,Brenda,Pascual,F,brenda.pascual@universidadvirtual.edu.ar,Argentina,Chubut,4,73,6,58,1,62,8,27
+75,Brenda,Cruz,F,brenda.cruz@universidadvirtual.edu.ar,Argentina,Catamarca,2,03,4,71,2,8,7,55
+59,Rodrigo,Saavedra,M,rodrigo.saavedra@universidadvirtual.edu.ar,Argentina,Entre Ríos,9,84,2,26,4,39,5,38
+145,Rodrigo,Ortega,M,rodrigo.ortega@universidadvirtual.edu.ar,Argentina,Catamarca,3,59,3,27,3,6,7,17
+60,Agatha,Saucedo,F,agatha.saucedo@universidadvirtual.edu.ar,Argentina,La Rioja,7,78,9,96,9,45,5,07
+126,Agatha,Sanabria,F,agatha.sanabria@universidadvirtual.edu.ar,Argentina,Santa Cruz,1,79,7,38,4,34,1,13
+84,Emilia,Duarte,F,emilia.duarte@universidadvirtual.edu.ar,Argentina,Entre Ríos,8,05,2,04,1,27,4,14
+65,Lidia,Ortega,F,lidia.ortega@universidadvirtual.edu.ar,Argentina,Santa Fe,5,4,7,43,6,66,5,36
+77,Iván,Oyola,M,iván.oyola@universidadvirtual.edu.ar,Argentina,San Juan,1,31,4,72,9,86,8,82
+79,Iván,Orozco,M,iván.orozco@universidadvirtual.edu.ar,Argentina,Mendoza,5,38,9,29,3,27,7,09
+66,Darío,Jiménez,M,darío.jiménez@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,74,6,72,8,42,2,94
+85,Ailén,Lira,F,ailén.lira@universidadvirtual.edu.ar,Argentina,Tucumán,6,98,2,8,8,82,2,96
+69,Rosa,Palacios,F,rosa.palacios@universidadvirtual.edu.ar,Argentina,Formosa,1,67,6,45,2,07,7,41
+70,Sabrina,Bustamante,F,sabrina.bustamante@universidadvirtual.edu.ar,Argentina,Salta,2,68,6,93,8,93,9,43
+137,Sabrina,Sandoval,F,sabrina.sandoval@universidadvirtual.edu.ar,Argentina,Corrientes,9,57,8,41,5,91,2,51
+71,Pilar,Fonseca,F,pilar.fonseca@universidadvirtual.edu.ar,Argentina,Misiones,5,46,1,68,2,77,9,8
+76,Pilar,Castaño,F,pilar.castaño@universidadvirtual.edu.ar,Argentina,Corrientes,4,27,1,01,1,42,5,69
+83,Adrián,Correa,M,adrián.correa@universidadvirtual.edu.ar,Argentina,Tucumán,9,36,1,07,9,09,8,5
+114,Adrián,Obando,M,adrián.obando@universidadvirtual.edu.ar,Argentina,La Rioja,9,44,9,06,9,08,5,25
+103,Ariel,Galván,M,ariel.galván@universidadvirtual.edu.ar,Argentina,Misiones,8,18,3,49,8,17,5,71
+103,Ariel,Galván,M,ariel.galván@universidadvirtual.edu.ar,Argentina,Misiones,8,18,3,49,8,17,5,71
+110,Pablo,Bustamante,M,pablo.bustamante@universidadvirtual.edu.ar,Argentina,Misiones,2,14,9,43,1,16,8,83
+136,Candela,Campos,F,candela.campos@universidadvirtual.edu.ar,Argentina,La Pampa,6,66,5,56,9,79,5,52
+87,Víctor,Méndez,M,víctor.méndez@universidadvirtual.edu.ar,Argentina,Salta,8,17,9,91,4,57,8,15
+89,Víctor,Cabrera,M,víctor.cabrera@universidadvirtual.edu.ar,Argentina,Catamarca,4,68,6,01,9,28,2,39
+100,Cristian,Céspedes,M,cristian.céspedes@universidadvirtual.edu.ar,Argentina,Río Negro,7,93,6,54,9,38,5,63
+100,Cristian,Céspedes,M,cristian.céspedes@universidadvirtual.edu.ar,Argentina,Río Negro,7,93,6,54,9,38,5,63
+88,Cintia,Buitrago,F,cintia.buitrago@universidadvirtual.edu.ar,Argentina,Corrientes,8,83,7,37,2,89,9,69
+113,Cintia,Araujo,F,cintia.araujo@universidadvirtual.edu.ar,Argentina,Chubut,1,27,6,57,2,91,5,93
+119,Micaela,Herrera,F,micaela.herrera@universidadvirtual.edu.ar,Argentina,Río Negro,1,37,4,47,9,91,8,22
+91,Gisela,Quiroz,F,gisela.quiroz@universidadvirtual.edu.ar,Argentina,Chaco,3,49,4,3,5,67,6,57
+109,Teresa,Quiroz,F,teresa.quiroz@universidadvirtual.edu.ar,Argentina,Chaco,5,14,3,01,7,95,4,96
+98,Norma,Esquivel,F,norma.esquivel@universidadvirtual.edu.ar,Argentina,Mendoza,2,63,7,88,5,8,2,32
+115,Elena,Matos,F,elena.matos@universidadvirtual.edu.ar,Argentina,Santa Cruz,7,13,6,4,1,54,9,57
+132,Elena,Robledo,F,elena.robledo@universidadvirtual.edu.ar,Argentina,Chaco,2,9,1,6,8,15,4,19
+120,Vanesa,Núñez,F,vanesa.núñez@universidadvirtual.edu.ar,Argentina,Entre Ríos,6,94,6,04,9,78,7,71
+123,Vanesa,López,F,vanesa.lópez@universidadvirtual.edu.ar,Argentina,La Rioja,5,61,4,76,8,28,4,51
+146,Ariel,Contreras,M,ariel.contreras@universidadvirtual.edu.ar,Argentina,Córdoba,5,59,4,74,6,4,1,09
+146,Ariel,Contreras,M,ariel.contreras@universidadvirtual.edu.ar,Argentina,Córdoba,5,59,4,74,6,4,1,09
+147,Joaquín,Juárez,M,joaquín.juárez@universidadvirtual.edu.ar,Argentina,Santa Cruz,3,45,8,52,5,01,4,15
+148,Darío,Amaya,M,darío.amaya@universidadvirtual.edu.ar,Argentina,Salta,3,58,4,45,8,96,6,34
+149,Sabrina,Galindo,F,sabrina.galindo@universidadvirtual.edu.ar,Argentina,Misiones,1,04,7,21,7,99,8,86
+150,Teresa,Fonseca,F,teresa.fonseca@universidadvirtual.edu.ar,Argentina,Misiones,8,52,4,18,5,93,1,43
+151,Ian,Urrutia,M,ian.urrutia@universidadvirtual.edu.ar,Argentina,Misiones,1,96,5,18,8,74,1,63
+152,Luis,Aguayo,M,luis.aguayo@universidadvirtual.edu.ar,Argentina,Misiones,5,02,2,12,9,24,3,56
+153,Mía,Farías,F,mía.farías@universidadvirtual.edu.ar,Argentina,Formosa,7,88,1,48,4,95,7,24
+154,Malena,Castañeda,F,malena.castañeda@universidadvirtual.edu.ar,Argentina,La Rioja,1,7,1,81,5,94,7,76
+155,Cristian,Rosales,M,cristian.rosales@universidadvirtual.edu.ar,Argentina,Río Negro,2,08,5,83,8,75,8,91
+155,Cristian,Rosales,M,cristian.rosales@universidadvirtual.edu.ar,Argentina,Río Negro,2,08,5,83,8,75,8,91
+156,Agatha,Quezada,F,agatha.quezada@universidadvirtual.edu.ar,Argentina,Entre Ríos,9,29,4,72,7,35,1,59
+157,Noelia,Lara,F,noelia.lara@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,7,7,68,9,18,5,83
+158,José,Carranza,M,josé.carranza@universidadvirtual.edu.ar,Argentina,Chaco,4,96,8,78,5,2,5,67
+159,Vanesa,Amaya,F,vanesa.amaya@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,5,69,3,23,7,76,6,84
+160,Patricia,Castañón,F,patricia.castañón@universidadvirtual.edu.ar,Argentina,San Juan,2,21,2,02,8,52,3,69
+161,Víctor,Sosa,M,víctor.sosa@universidadvirtual.edu.ar,Argentina,Corrientes,9,37,7,73,3,6,1,56
+162,Ángel,Bautista,M,ángel.bautista@universidadvirtual.edu.ar,Argentina,Santa Cruz,7,18,1,15,6,27,8,2
+163,Camila,Morillo,F,camila.morillo@universidadvirtual.edu.ar,Argentina,Neuquén,6,52,1,48,7,83,9,72
+164,Cristian,Escobar,M,cristian.escobar@universidadvirtual.edu.ar,Argentina,Santa Fe,3,01,1,31,5,94,7,01
+164,Cristian,Escobar,M,cristian.escobar@universidadvirtual.edu.ar,Argentina,Santa Fe,3,01,1,31,5,94,7,01
+165,Nayla,Oseguera,F,nayla.oseguera@universidadvirtual.edu.ar,Argentina,Río Negro,7,48,8,44,7,23,8,21
+166,Mauricio,Illescas,M,mauricio.illescas@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,7,37,6,93,9,06,3,24
+167,Joaquín,Quintero,M,joaquín.quintero@universidadvirtual.edu.ar,Argentina,Tucumán,9,46,6,2,41,1,26
+168,Tamara,Ordóñez,F,tamara.ordóñez@universidadvirtual.edu.ar,Argentina,Catamarca,2,04,5,19,9,69,7,18
+169,Ian,Oyola,M,ian.oyola@universidadvirtual.edu.ar,Argentina,Misiones,5,81,2,14,5,74,2,11
+170,Santiago,Lucero,M,santiago.lucero@universidadvirtual.edu.ar,Argentina,La Rioja,8,21,6,72,2,99,1,9
+171,Carolina,Henríquez,F,carolina.henríquez@universidadvirtual.edu.ar,Argentina,Córdoba,4,72,2,17,6,69,1,4
+172,Guillermina,Obando,F,guillermina.obando@universidadvirtual.edu.ar,Argentina,San Juan,6,52,9,61,5,26,3,68
+173,Delfina,Godínez,F,delfina.godínez@universidadvirtual.edu.ar,Argentina,San Luis,5,7,2,34,1,89,6,84
+174,Cristian,Urbina,M,cristian.urbina@universidadvirtual.edu.ar,Argentina,San Luis,1,45,2,25,8,61,1,11
+174,Cristian,Urbina,M,cristian.urbina@universidadvirtual.edu.ar,Argentina,San Luis,1,45,2,25,8,61,1,11
+175,Santiago,Lozano,M,santiago.lozano@universidadvirtual.edu.ar,Argentina,Santa Fe,7,59,5,79,4,21,9,46
+176,Luis,Cuéllar,M,luis.cuéllar@universidadvirtual.edu.ar,Argentina,Catamarca,2,61,6,33,1,28,6,62
+177,Gael,Escalante,M,gael.escalante@universidadvirtual.edu.ar,Argentina,Corrientes,8,83,8,73,1,19,3,72
+178,Candela,Trejo,F,candela.trejo@universidadvirtual.edu.ar,Argentina,Misiones,2,1,77,2,92,9,23
+179,Omar,Durán,M,omar.durán@universidadvirtual.edu.ar,Argentina,Córdoba,9,91,6,78,7,33,7,61
+180,Fátima,Reza,F,fátima.reza@universidadvirtual.edu.ar,Argentina,Jujuy,5,07,4,73,4,08,3,37
+181,Thiago,Caraballo,M,thiago.caraballo@universidadvirtual.edu.ar,Argentina,Chaco,5,4,7,9,7,6,9,85
+182,Olivia,Castaño,F,olivia.castaño@universidadvirtual.edu.ar,Argentina,Chaco,6,89,3,96,9,18,5,73
+183,Néstor,Ponce,M,néstor.ponce@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,04,3,51,3,02,6,53
+184,Andrés,Casanova,M,andrés.casanova@universidadvirtual.edu.ar,Argentina,Chubut,7,55,3,71,6,08,3,72
+185,Ariel,Romero,M,ariel.romero@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,3,52,8,35,9,65,1,92
+185,Ariel,Romero,M,ariel.romero@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,3,52,8,35,9,65,1,92
+186,Juan,Lucero,M,juan.lucero@universidadvirtual.edu.ar,Argentina,Catamarca,2,42,8,03,8,5,1,71
+187,Candela,Rivas,F,candela.rivas@universidadvirtual.edu.ar,Argentina,Misiones,8,44,2,05,5,32,6,11
+188,Micaela,Cardona,F,micaela.cardona@universidadvirtual.edu.ar,Argentina,Salta,8,02,8,35,9,78,7,7
+189,Sofía,Pascual,F,sofía.pascual@universidadvirtual.edu.ar,Argentina,Formosa,5,45,2,59,6,47,5,43
+190,Yamila,Sandoval,F,yamila.sandoval@universidadvirtual.edu.ar,Argentina,Río Negro,3,98,7,25,7,63,4,15
+191,Matías,Astudillo,M,matías.astudillo@universidadvirtual.edu.ar,Argentina,Santiago del Estero,9,61,7,82,3,72,1,23
+192,Ricardo,Capdevila,M,ricardo.capdevila@universidadvirtual.edu.ar,Argentina,Santiago del Estero,2,93,9,72,9,93,5,21
+193,Iván,Calderón,M,iván.calderón@universidadvirtual.edu.ar,Argentina,Salta,5,43,5,58,5,66,8,6
+194,Brenda,Valderrama,F,brenda.valderrama@universidadvirtual.edu.ar,Argentina,Chubut,4,66,6,54,8,48,2,65
+195,Melina,Castañón,F,melina.castañón@universidadvirtual.edu.ar,Argentina,Mendoza,7,33,3,65,4,1,69
+196,Thiago,Valderrama,M,thiago.valderrama@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,22,7,06,1,09,8,46
+197,Julián,Sarmiento,M,julián.sarmiento@universidadvirtual.edu.ar,Argentina,Misiones,8,85,1,99,3,96,5,28
+198,Sebastián,Montiel,M,sebastián.montiel@universidadvirtual.edu.ar,Argentina,Río Negro,7,58,1,31,6,4,5,91
+199,Diego,Sarria,M,diego.sarria@universidadvirtual.edu.ar,Argentina,Córdoba,1,58,1,39,4,19,1,53
+200,Carla,Urrutia,F,carla.urrutia@universidadvirtual.edu.ar,Argentina,Corrientes,7,87,2,91,3,4,1,8
+201,Mauricio,Serrano,M,mauricio.serrano@universidadvirtual.edu.ar,Argentina,Río Negro,8,85,4,49,1,59,4,38
+202,Milagros,Espinoza,F,milagros.espinoza@universidadvirtual.edu.ar,Argentina,Neuquén,4,89,9,64,7,6,7,05
+203,Josefina,Almada,F,josefina.almada@universidadvirtual.edu.ar,Argentina,Chaco,2,26,2,34,5,13,6,56
+204,Ailén,Piña,F,ailén.piña@universidadvirtual.edu.ar,Argentina,Río Negro,3,71,5,09,2,58,2,31
+205,Kevin,Villaseñor,M,kevin.villaseñor@universidadvirtual.edu.ar,Argentina,Neuquén,5,58,8,81,5,39,9,47
+206,Camila,Figueroa,F,camila.figueroa@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,81,9,1,66,1,19
+207,Guillermina,Lozano,F,guillermina.lozano@universidadvirtual.edu.ar,Argentina,Neuquén,6,4,7,55,5,7,6,88
+208,Darío,Macías,M,darío.macías@universidadvirtual.edu.ar,Argentina,Chaco,8,41,4,48,9,27,1,12
+209,Carmen,Castañón,F,carmen.castañón@universidadvirtual.edu.ar,Argentina,Entre Ríos,7,55,8,16,3,18,6,93
+210,Guillermina,Gómez,F,guillermina.gómez@universidadvirtual.edu.ar,Argentina,Chubut,5,01,9,39,7,42,5,59
+211,Lautaro,Cruz,M,lautaro.cruz@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,16,7,65,5,5,2,32
+212,Damián,De la Cruz,M,damián.de la cruz@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,92,4,33,1,73,5,87
+213,Paula,Domínguez,F,paula.domínguez@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,14,6,8,5,64,1,91
+214,Ángel,Godoy,M,ángel.godoy@universidadvirtual.edu.ar,Argentina,Chubut,8,61,8,97,8,29,2,38
+215,Brenda,Flores,F,brenda.flores@universidadvirtual.edu.ar,Argentina,Jujuy,3,41,2,68,8,66,4,27
+216,Paula,Cedillo,F,paula.cedillo@universidadvirtual.edu.ar,Argentina,Formosa,3,83,1,12,4,3,1,59
+217,Ariel,Bravo,M,ariel.bravo@universidadvirtual.edu.ar,Argentina,Jujuy,9,26,6,12,2,17,6,95
+217,Ariel,Bravo,M,ariel.bravo@universidadvirtual.edu.ar,Argentina,Jujuy,9,26,6,12,2,17,6,95
+218,Nicolás,Chacón,M,nicolás.chacón@universidadvirtual.edu.ar,Argentina,Tucumán,7,1,5,36,1,9,2,84
+219,Florencia,Flores,F,florencia.flores@universidadvirtual.edu.ar,Argentina,La Pampa,2,54,9,05,7,74,7,57
+220,Olivia,Castaño,F,olivia.castaño@universidadvirtual.edu.ar,Argentina,Santa Cruz,6,32,7,2,9,8,1,75
+221,Carolina,Del Río,F,carolina.del río@universidadvirtual.edu.ar,Argentina,Misiones,8,83,4,32,4,84,6,86
+222,Milagros,Varela,F,milagros.varela@universidadvirtual.edu.ar,Argentina,Salta,7,65,8,64,6,52,9,94
+223,Kevin,Dávalos,M,kevin.dávalos@universidadvirtual.edu.ar,Argentina,Córdoba,9,01,4,87,8,2,9,29
+224,Federico,Barboza,M,federico.barboza@universidadvirtual.edu.ar,Argentina,La Pampa,1,17,6,04,5,85,2,79
+225,Milagros,Valenzuela,F,milagros.valenzuela@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,2,36,3,13,5,24,8,2
+226,Lucas,Elizalde,M,lucas.elizalde@universidadvirtual.edu.ar,Argentina,La Pampa,4,16,4,65,7,02,3,02
+227,Jazmín,Becerra,F,jazmín.becerra@universidadvirtual.edu.ar,Argentina,San Juan,4,8,8,04,8,31,2,58
+228,Ariel,Quiñones,M,ariel.quiñones@universidadvirtual.edu.ar,Argentina,Córdoba,8,52,3,33,5,55,4,73
+228,Ariel,Quiñones,M,ariel.quiñones@universidadvirtual.edu.ar,Argentina,Córdoba,8,52,3,33,5,55,4,73
+229,Lautaro,Roque,M,lautaro.roque@universidadvirtual.edu.ar,Argentina,Jujuy,5,37,8,24,4,84,2,45
+230,Malena,Padilla,F,malena.padilla@universidadvirtual.edu.ar,Argentina,Tucumán,1,5,1,86,1,36,8,09
+231,Ailén,Buitrago,F,ailén.buitrago@universidadvirtual.edu.ar,Argentina,La Pampa,1,76,3,32,2,22,5,61
+232,Gael,Roque,M,gael.roque@universidadvirtual.edu.ar,Argentina,Corrientes,9,07,2,59,5,08,9,11
+233,Rosa,Varela,F,rosa.varela@universidadvirtual.edu.ar,Argentina,Buenos Aires,5,9,34,1,34,1,66
+234,Gonzalo,Luján,M,gonzalo.luján@universidadvirtual.edu.ar,Argentina,Mendoza,6,33,7,96,7,08,2,39
+235,Norma,Buitrago,F,norma.buitrago@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,6,6,99,8,51,8,08
+236,Ángel,Vázquez,M,ángel.vázquez@universidadvirtual.edu.ar,Argentina,Río Negro,8,74,2,98,2,02,4,83
+237,Malena,Gallardo,F,malena.gallardo@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,94,2,59,7,86,6,71
+238,Patricia,Astudillo,F,patricia.astudillo@universidadvirtual.edu.ar,Argentina,Santa Fe,4,96,3,58,6,24,3,06
+239,Emilia,Caraballo,F,emilia.caraballo@universidadvirtual.edu.ar,Argentina,San Luis,6,84,3,72,5,04,2,09
+240,Luciano,Esquivel,M,luciano.esquivel@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,48,8,33,6,26,8,37
+241,Ana,Vargas,F,ana.vargas@universidadvirtual.edu.ar,Argentina,La Rioja,5,87,6,86,5,61,8,54
+242,Rosa,Campos,F,rosa.campos@universidadvirtual.edu.ar,Argentina,La Rioja,4,7,5,26,7,82,5,73
+243,Iván,Salguero,M,iván.salguero@universidadvirtual.edu.ar,Argentina,La Pampa,5,12,4,19,9,4,3,81
+244,Fabián,Alfaro,M,fabián.alfaro@universidadvirtual.edu.ar,Argentina,Neuquén,9,43,1,03,2,49,5,51
+245,Javier,Matos,M,javier.matos@universidadvirtual.edu.ar,Argentina,La Rioja,7,67,7,39,9,14,7,62
+246,Carla,Ponce,F,carla.ponce@universidadvirtual.edu.ar,Argentina,La Rioja,4,74,2,58,5,92,4,93
+247,Rafael,Palma,M,rafael.palma@universidadvirtual.edu.ar,Argentina,La Rioja,7,44,5,21,1,22,9,54
+248,Julieta,Quevedo,F,julieta.quevedo@universidadvirtual.edu.ar,Argentina,Córdoba,6,39,4,23,8,91,2,47
+249,Marcos,Palacios,M,marcos.palacios@universidadvirtual.edu.ar,Argentina,Buenos Aires,5,34,9,84,1,85,8,36
+250,Iván,Farías,M,iván.farías@universidadvirtual.edu.ar,Argentina,Neuquén,8,27,8,25,3,5,07
+251,Belén,Del Cid,F,belén.del cid@universidadvirtual.edu.ar,Argentina,Neuquén,6,76,3,82,7,29,4,46
+252,Vanesa,Guevara,F,vanesa.guevara@universidadvirtual.edu.ar,Argentina,San Juan,1,68,7,11,3,86,3,03
+253,Sebastián,Figueroa,M,sebastián.figueroa@universidadvirtual.edu.ar,Argentina,La Rioja,9,21,3,71,8,18,8,73
+254,Miguel,Álvarez,M,miguel.álvarez@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,55,5,88,3,56,3,18
+255,Carolina,Calderón,F,carolina.calderón@universidadvirtual.edu.ar,Argentina,Catamarca,7,91,5,39,5,54,1,95
+256,Claudia,Muñiz,F,claudia.muñiz@universidadvirtual.edu.ar,Argentina,Salta,6,99,8,19,4,7,4,69
+257,Miguel,Arellano,M,miguel.arellano@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,39,7,45,2,17,8,73
+258,León,Paredes,M,león.paredes@universidadvirtual.edu.ar,Argentina,Misiones,9,27,9,41,8,38,9,59
+259,Eugenia,Téllez,F,eugenia.téllez@universidadvirtual.edu.ar,Argentina,Entre Ríos,8,05,2,1,2,71,3,08
+260,Camila,Castañeda,F,camila.castañeda@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,54,9,55,1,12,3,59
+261,Mónica,Nava,F,mónica.nava@universidadvirtual.edu.ar,Argentina,Río Negro,6,01,3,18,5,21,4,92
+262,Ángel,Del Toro,M,ángel.del toro@universidadvirtual.edu.ar,Argentina,Chubut,4,08,3,45,3,61,3,34
+263,Lucas,Manríquez,M,lucas.manríquez@universidadvirtual.edu.ar,Argentina,Catamarca,6,19,8,15,6,03,7,86
+264,Ana,Escudero,F,ana.escudero@universidadvirtual.edu.ar,Argentina,Tucumán,8,34,1,03,2,71,3,38
+265,Vanesa,Jáuregui,F,vanesa.jáuregui@universidadvirtual.edu.ar,Argentina,Corrientes,3,19,1,59,1,08,3,54
+266,Catalina,Esparza,F,catalina.esparza@universidadvirtual.edu.ar,Argentina,Chubut,5,81,2,75,5,16,1,84
+267,Rafael,Mejía,M,rafael.mejía@universidadvirtual.edu.ar,Argentina,Río Negro,2,89,6,73,4,55,7
+268,Abril,Robles,F,abril.robles@universidadvirtual.edu.ar,Argentina,Misiones,9,79,8,16,1,33,4,6
+269,Abril,Silva,F,abril.silva@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,9,5,7,33,5,77,9,2
+270,Lidia,Del Valle,F,lidia.del valle@universidadvirtual.edu.ar,Argentina,Corrientes,3,87,9,58,2,7,41
+271,Patricia,Lira,F,patricia.lira@universidadvirtual.edu.ar,Argentina,Catamarca,5,16,3,41,3,91,1,49
+272,Ian,Torres,M,ian.torres@universidadvirtual.edu.ar,Argentina,Salta,6,97,3,59,4,81,3,08
+273,Lautaro,Caraballo,M,lautaro.caraballo@universidadvirtual.edu.ar,Argentina,La Pampa,9,89,5,4,1,22,3,9
+274,Camila,Ledesma,F,camila.ledesma@universidadvirtual.edu.ar,Argentina,Córdoba,7,95,3,56,2,01,1,84
+275,Rocío,Esquivel,F,rocío.esquivel@universidadvirtual.edu.ar,Argentina,Río Negro,4,54,1,09,8,88,2,75
+276,Milagros,Erazo,F,milagros.erazo@universidadvirtual.edu.ar,Argentina,Entre Ríos,9,88,1,24,6,01,7,68
+277,Abril,Galván,F,abril.galván@universidadvirtual.edu.ar,Argentina,San Luis,8,26,5,26,5,36,5,93
+278,Tomás,Valderrama,M,tomás.valderrama@universidadvirtual.edu.ar,Argentina,San Luis,3,49,8,27,7,32,3,51
+279,Federico,Godoy,M,federico.godoy@universidadvirtual.edu.ar,Argentina,La Rioja,5,31,1,77,5,7,2,05
+280,Tamara,Casanova,F,tamara.casanova@universidadvirtual.edu.ar,Argentina,San Juan,5,71,5,98,4,8,3,41
+281,Hugo,Granados,M,hugo.granados@universidadvirtual.edu.ar,Argentina,Chubut,9,25,9,74,7,74,7,81
+282,Paula,Urrutia,F,paula.urrutia@universidadvirtual.edu.ar,Argentina,Salta,9,38,3,04,6,78,8,95
+283,Teresa,Gómez,F,teresa.gómez@universidadvirtual.edu.ar,Argentina,Catamarca,1,77,3,24,9,48,6,31
+284,Thiago,Escamilla,M,thiago.escamilla@universidadvirtual.edu.ar,Argentina,Jujuy,3,18,3,69,4,37,6,48
+285,Daniela,Infante,F,daniela.infante@universidadvirtual.edu.ar,Argentina,Entre Ríos,2,35,7,77,4,87,4,38
+286,Jazmín,Fonseca,F,jazmín.fonseca@universidadvirtual.edu.ar,Argentina,Mendoza,1,38,8,09,7,08,8,45
+287,Bruno,Piña,M,bruno.piña@universidadvirtual.edu.ar,Argentina,Chubut,2,6,1,8,5,61,3,02
+288,Ailén,Saavedra,F,ailén.saavedra@universidadvirtual.edu.ar,Argentina,Santiago del Estero,4,25,7,01,6,19,9,12
+289,Ángeles,Illescas,F,ángeles.illescas@universidadvirtual.edu.ar,Argentina,Córdoba,3,62,5,18,4,46,4,85
+290,Mónica,Negrón,F,mónica.negrón@universidadvirtual.edu.ar,Argentina,Chaco,7,74,2,69,4,35,9,34
+291,Kevin,Lemus,M,kevin.lemus@universidadvirtual.edu.ar,Argentina,Neuquén,3,56,1,93,4,84,3,8
+292,Nicolás,Castañón,M,nicolás.castañón@universidadvirtual.edu.ar,Argentina,Chubut,9,47,2,46,9,29,3,4
+293,Sebastián,Huerta,M,sebastián.huerta@universidadvirtual.edu.ar,Argentina,Tucumán,1,42,9,38,7,62,8,88
+294,Mariana,Zamora,F,mariana.zamora@universidadvirtual.edu.ar,Argentina,San Juan,4,04,2,59,6,4,7,79
+295,Lautaro,Huerta,M,lautaro.huerta@universidadvirtual.edu.ar,Argentina,Córdoba,5,43,5,15,3,6,1,73
+296,Vanesa,Bastidas,F,vanesa.bastidas@universidadvirtual.edu.ar,Argentina,Chubut,9,78,3,35,9,16,6,39
+297,Paula,Aguayo,F,paula.aguayo@universidadvirtual.edu.ar,Argentina,Chaco,4,5,4,05,5,86,6,22
+298,Abril,Delgado,F,abril.delgado@universidadvirtual.edu.ar,Argentina,San Juan,1,66,6,62,5,73,1,73
+299,Walter,Tovar,M,walter.tovar@universidadvirtual.edu.ar,Argentina,Chubut,9,7,3,64,2,46,5,09
+300,Teresa,Salinas,F,teresa.salinas@universidadvirtual.edu.ar,Argentina,Jujuy,1,9,7,2,7,58,6,08
+301,Antonella,Tinoco,F,antonella.tinoco@universidadvirtual.edu.ar,Argentina,Catamarca,7,48,8,9,4,98,4,37
+302,Nicolás,Ocampo,M,nicolás.ocampo@universidadvirtual.edu.ar,Argentina,La Pampa,8,14,8,45,1,03,9,56
+303,Silvia,Céspedes,F,silvia.céspedes@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,04,1,08,4,34,7,32
+304,Emilia,Morales,F,emilia.morales@universidadvirtual.edu.ar,Argentina,Santiago del Estero,2,07,6,89,2,41,4,21
+305,Valentina,Díaz,F,valentina.díaz@universidadvirtual.edu.ar,Argentina,Santiago del Estero,2,84,2,53,9,73,6,51
+306,Sebastián,Infante,M,sebastián.infante@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,7,13,3,21,1,34,9,39
+307,Franco,Tinoco,M,franco.tinoco@universidadvirtual.edu.ar,Argentina,Córdoba,1,89,9,32,1,59,8,24
+308,Axel,Llamas,M,axel.llamas@universidadvirtual.edu.ar,Argentina,Chaco,5,24,3,27,8,26,4,64
+309,Cristian,Falcón,M,cristian.falcón@universidadvirtual.edu.ar,Argentina,Formosa,7,49,9,12,2,5,3,93
+309,Cristian,Falcón,M,cristian.falcón@universidadvirtual.edu.ar,Argentina,Formosa,7,49,9,12,2,5,3,93
+310,Elías,Villegas,M,elías.villegas@universidadvirtual.edu.ar,Argentina,La Pampa,8,31,3,07,6,58,1,26
+311,Abril,Peralta,F,abril.peralta@universidadvirtual.edu.ar,Argentina,Formosa,7,7,32,1,01,4,82
+312,Darío,Saucedo,M,darío.saucedo@universidadvirtual.edu.ar,Argentina,La Rioja,8,68,2,45,3,02,8,15
+313,Patricia,Leyva,F,patricia.leyva@universidadvirtual.edu.ar,Argentina,Buenos Aires,6,82,6,66,1,03,6,56
+314,Alan,Chacón,M,alan.chacón@universidadvirtual.edu.ar,Argentina,Río Negro,6,54,9,84,9,84,8
+315,Brenda,Lucero,F,brenda.lucero@universidadvirtual.edu.ar,Argentina,Jujuy,1,34,7,17,6,11,6,34
+316,Mariana,Méndez,F,mariana.méndez@universidadvirtual.edu.ar,Argentina,San Juan,8,65,6,63,4,32,2,94
+317,Juan,Ibarra,M,juan.ibarra@universidadvirtual.edu.ar,Argentina,Jujuy,2,57,2,75,4,59,8,27
+318,Lautaro,De la Cruz,M,lautaro.de la cruz@universidadvirtual.edu.ar,Argentina,Formosa,2,84,5,77,6,05,9,28
+319,Cintia,Carrillo,F,cintia.carrillo@universidadvirtual.edu.ar,Argentina,Chaco,1,56,6,4,12,4,73
+320,Enzo,Zambrano,M,enzo.zambrano@universidadvirtual.edu.ar,Argentina,La Rioja,4,24,2,82,7,52,5,37
+321,Andrés,Cueva,M,andrés.cueva@universidadvirtual.edu.ar,Argentina,Neuquén,6,44,2,37,3,92,2,21
+322,Emilia,Palacios,F,emilia.palacios@universidadvirtual.edu.ar,Argentina,Corrientes,6,64,1,26,9,09,4,81
+323,Josefina,Heredia,F,josefina.heredia@universidadvirtual.edu.ar,Argentina,Catamarca,1,73,7,38,6,26,2,03
+324,Agustina,Barrios,F,agustina.barrios@universidadvirtual.edu.ar,Argentina,Catamarca,7,37,1,9,7,2,5,27
+325,Elena,Quiroz,F,elena.quiroz@universidadvirtual.edu.ar,Argentina,Jujuy,2,51,5,43,2,85,3,72
+326,Mateo,Sazo,M,mateo.sazo@universidadvirtual.edu.ar,Argentina,San Luis,7,16,6,37,3,84,5,47
+327,Paula,Amaya,F,paula.amaya@universidadvirtual.edu.ar,Argentina,Córdoba,3,3,1,86,7,95,3,34
+328,Ángeles,Araujo,F,ángeles.araujo@universidadvirtual.edu.ar,Argentina,Corrientes,9,61,3,95,6,66,3,9
+329,Silvia,Valenzuela,F,silvia.valenzuela@universidadvirtual.edu.ar,Argentina,Chubut,9,13,7,89,8,8,2,75
+330,Gael,Gaytán,M,gael.gaytán@universidadvirtual.edu.ar,Argentina,Chaco,4,61,3,08,2,18,1,66
+331,Sergio,Espinosa,M,sergio.espinosa@universidadvirtual.edu.ar,Argentina,Buenos Aires,2,57,4,73,1,96,3
+332,Brenda,Mayorga,F,brenda.mayorga@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,7,99,4,12,5,56,1,78
+333,Miguel,Colón,M,miguel.colón@universidadvirtual.edu.ar,Argentina,Santa Cruz,2,65,8,4,5,22,3,64
+334,Ezequiel,Romero,M,ezequiel.romero@universidadvirtual.edu.ar,Argentina,Catamarca,4,28,3,85,5,41,1,14
+335,Micaela,Arguello,F,micaela.arguello@universidadvirtual.edu.ar,Argentina,Tucumán,7,05,1,75,9,92,7,4
+336,José,Farías,M,josé.farías@universidadvirtual.edu.ar,Argentina,Tucumán,1,2,3,94,4,76,7,69
+337,Catalina,Del Río,F,catalina.del río@universidadvirtual.edu.ar,Argentina,San Juan,2,33,7,9,2,3,1,32
+338,Hugo,Cañizares,M,hugo.cañizares@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,5,79,4,18,3,35,6,59
+339,Brian,Portillo,M,brian.portillo@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,94,2,16,9,62,2,1
+340,Federico,Palma,M,federico.palma@universidadvirtual.edu.ar,Argentina,Chaco,2,01,2,73,5,13,5,89
+341,Mónica,Saavedra,F,mónica.saavedra@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,21,5,63,8,65,3
+342,Jazmín,Ponce,F,jazmín.ponce@universidadvirtual.edu.ar,Argentina,Entre Ríos,1,7,4,16,2,38,9,63
+343,Gisela,Palacios,F,gisela.palacios@universidadvirtual.edu.ar,Argentina,Río Negro,8,93,3,48,3,76,9,49
+344,Walter,Cueva,M,walter.cueva@universidadvirtual.edu.ar,Argentina,Río Negro,8,63,3,17,5,91,8,83
+345,Bruno,Ocampo,M,bruno.ocampo@universidadvirtual.edu.ar,Argentina,San Juan,6,42,1,66,5,56,3,92
+346,Emilia,Castañón,F,emilia.castañón@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,43,4,38,5,32,9,44
+347,Javier,Quevedo,M,javier.quevedo@universidadvirtual.edu.ar,Argentina,La Pampa,1,21,9,06,3,1,9,3
+348,Yamila,Bravo,F,yamila.bravo@universidadvirtual.edu.ar,Argentina,Río Negro,3,76,1,9,7,8,5,45
+349,Lautaro,Lira,M,lautaro.lira@universidadvirtual.edu.ar,Argentina,Catamarca,7,8,4,94,2,37,5,56
+350,Renata,Quiroz,F,renata.quiroz@universidadvirtual.edu.ar,Argentina,Neuquén,1,18,2,75,6,21,9,6
+351,Rodrigo,Ovalle,M,rodrigo.ovalle@universidadvirtual.edu.ar,Argentina,Catamarca,9,43,3,93,2,69,2,52
+352,Estefanía,Padilla,F,estefanía.padilla@universidadvirtual.edu.ar,Argentina,Chubut,7,55,6,01,4,12,4,98
+353,Malena,Urrutia,F,malena.urrutia@universidadvirtual.edu.ar,Argentina,Misiones,3,56,1,44,7,68,3,91
+354,Florencia,Girón,F,florencia.girón@universidadvirtual.edu.ar,Argentina,Córdoba,7,65,6,55,8,98,5,23
+355,Renata,Pérez,F,renata.pérez@universidadvirtual.edu.ar,Argentina,Mendoza,6,89,1,44,8,7,5,35
+356,Néstor,Del Toro,M,néstor.del toro@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,11,4,05,4,82,1,12
+357,Brenda,Barrios,F,brenda.barrios@universidadvirtual.edu.ar,Argentina,Santiago del Estero,1,92,5,53,3,46,9,68
+358,Melina,Olivares,F,melina.olivares@universidadvirtual.edu.ar,Argentina,Córdoba,6,51,4,43,3,12,5,71
+359,Lara,Varela,F,lara.varela@universidadvirtual.edu.ar,Argentina,Misiones,3,03,3,1,9,95,6,95
+360,Darío,Pedraza,M,darío.pedraza@universidadvirtual.edu.ar,Argentina,Mendoza,7,34,1,02,6,2,46
+361,Damián,Perdomo,M,damián.perdomo@universidadvirtual.edu.ar,Argentina,Mendoza,4,71,1,78,8,47,5,12
+362,Leandro,Domínguez,M,leandro.domínguez@universidadvirtual.edu.ar,Argentina,San Luis,9,28,3,75,7,19,5,74
+363,Pedro,Farías,M,pedro.farías@universidadvirtual.edu.ar,Argentina,Neuquén,2,54,2,14,3,51,2,9
+364,Mónica,Payán,F,mónica.payán@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,8,8,45,8,91,9,89
+365,Mariana,Morillo,F,mariana.morillo@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,5,24,5,28,4,44,2,45
+366,Lara,Zúñiga,F,lara.zúñiga@universidadvirtual.edu.ar,Argentina,Santa Fe,9,19,1,97,3,98,8,58
+367,Celeste,Quiroz,F,celeste.quiroz@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,96,6,74,8,76,3,5
+368,Bruno,García,M,bruno.garcía@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,1,42,8,6,1,53,3,46
+369,Teresa,Amaya,F,teresa.amaya@universidadvirtual.edu.ar,Argentina,La Rioja,7,96,7,07,1,99,1,26
+370,Catalina,Villaseñor,F,catalina.villaseñor@universidadvirtual.edu.ar,Argentina,San Luis,7,43,3,72,5,09,1,11
+371,Ángeles,Ayala,F,ángeles.ayala@universidadvirtual.edu.ar,Argentina,Salta,3,32,3,61,9,31,9,94
+372,José,López,M,josé.lópez@universidadvirtual.edu.ar,Argentina,Río Negro,4,86,8,47,7,87,6,41
+373,Manuel,Fonseca,M,manuel.fonseca@universidadvirtual.edu.ar,Argentina,Chubut,3,7,3,56,4,06,8,06
+374,Brenda,Castro,F,brenda.castro@universidadvirtual.edu.ar,Argentina,Catamarca,6,34,9,19,3,93,8,22
+375,Bianca,Zambrano,F,bianca.zambrano@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,8,42,8,68,3,03,1,57
+376,Daniela,Fernández,F,daniela.fernández@universidadvirtual.edu.ar,Argentina,Misiones,2,1,8,8,3,27,9,27
+377,Bianca,Caraballo,F,bianca.caraballo@universidadvirtual.edu.ar,Argentina,Mendoza,9,68,8,73,6,33,8,67
+378,María,Esquivel,F,maría.esquivel@universidadvirtual.edu.ar,Argentina,Salta,1,74,3,89,4,94,6,93
+379,Bruno,Lira,M,bruno.lira@universidadvirtual.edu.ar,Argentina,Córdoba,8,02,6,34,7,48,3,3
+380,Luz,Farías,F,luz.farías@universidadvirtual.edu.ar,Argentina,Río Negro,2,99,7,75,3,71,5,29
+381,Ángel,Ayala,M,ángel.ayala@universidadvirtual.edu.ar,Argentina,Entre Ríos,9,67,2,81,3,67,9,04
+382,Axel,Farias,M,axel.farias@universidadvirtual.edu.ar,Argentina,Salta,8,52,3,17,1,58,1,29
+383,Rocío,Tovar,F,rocío.tovar@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,65,3,32,7,4,3,12
+384,Celeste,Villanueva,F,celeste.villanueva@universidadvirtual.edu.ar,Argentina,Corrientes,7,04,7,03,5,71,6,23
+385,Facundo,Colón,M,facundo.colón@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,06,4,85,9,88,2,66
+386,Lara,Cuenca,F,lara.cuenca@universidadvirtual.edu.ar,Argentina,Formosa,7,69,4,01,3,15,8,2
+387,Jazmín,Tello,F,jazmín.tello@universidadvirtual.edu.ar,Argentina,Mendoza,7,49,1,79,5,49,5,36
+388,Nerea,Montoya,F,nerea.montoya@universidadvirtual.edu.ar,Argentina,Jujuy,9,13,9,51,3,52,7,82
+389,Ramiro,Infante,M,ramiro.infante@universidadvirtual.edu.ar,Argentina,Buenos Aires,5,46,7,45,4,79,2,41
+390,Lourdes,Rangel,F,lourdes.rangel@universidadvirtual.edu.ar,Argentina,Mendoza,9,71,5,1,4,85,3,67
+391,Pablo,Escamilla,M,pablo.escamilla@universidadvirtual.edu.ar,Argentina,Formosa,1,48,7,92,1,56,7,27
+392,León,Urbina,M,león.urbina@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,9,06,6,38,2,78,5,48
+393,Ariel,Guevara,M,ariel.guevara@universidadvirtual.edu.ar,Argentina,La Pampa,6,47,7,82,4,83,6,1
+393,Ariel,Guevara,M,ariel.guevara@universidadvirtual.edu.ar,Argentina,La Pampa,6,47,7,82,4,83,6,1
+394,Graciela,Lozano,F,graciela.lozano@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,1,3,68,9,29,9,71
+395,Carla,Ovalle,F,carla.ovalle@universidadvirtual.edu.ar,Argentina,Neuquén,5,96,7,22,8,69,6,67
+396,Gisela,Mares,F,gisela.mares@universidadvirtual.edu.ar,Argentina,Santa Cruz,6,91,5,48,8,53,6,89
+397,Omar,Godoy,M,omar.godoy@universidadvirtual.edu.ar,Argentina,San Luis,3,95,1,04,4,82,9,34
+398,Gisela,Urbina,F,gisela.urbina@universidadvirtual.edu.ar,Argentina,Chubut,1,33,4,78,2,4,2,91
+399,Luciano,Flores,M,luciano.flores@universidadvirtual.edu.ar,Argentina,La Pampa,9,95,1,96,8,15,3,63
+400,Norma,Espinoza,F,norma.espinoza@universidadvirtual.edu.ar,Argentina,Tucumán,5,64,6,37,8,37,1,4
+401,Catalina,Tobar,F,catalina.tobar@universidadvirtual.edu.ar,Argentina,Córdoba,4,23,6,67,3,79,3,94
+402,Josefina,Pedraza,F,josefina.pedraza@universidadvirtual.edu.ar,Argentina,Chaco,7,32,9,31,2,3,01
+403,Candela,Guardado,F,candela.guardado@universidadvirtual.edu.ar,Argentina,Misiones,9,12,4,95,5,55,7,34
+404,Mateo,Ponce,M,mateo.ponce@universidadvirtual.edu.ar,Argentina,Chaco,4,88,5,57,6,65,2,55
+405,Morena,Llamas,F,morena.llamas@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,16,8,22,2,32,4,56
+406,Jazmín,Farias,F,jazmín.farias@universidadvirtual.edu.ar,Argentina,Santa Fe,5,18,3,6,9,9,7,02
+407,José,Muñiz,M,josé.muñiz@universidadvirtual.edu.ar,Argentina,Jujuy,9,77,8,2,3,35,7,85
+408,Simón,Romero,M,simón.romero@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,06,7,22,1,63,7,99
+409,Noelia,Rosales,F,noelia.rosales@universidadvirtual.edu.ar,Argentina,San Luis,2,16,1,67,6,86,4,74
+410,Sebastián,Roldán,M,sebastián.roldán@universidadvirtual.edu.ar,Argentina,Entre Ríos,6,03,3,14,8,24,1,41
+411,Lucía,Marroquín,F,lucía.marroquín@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,7,06,1,68,6,7,6,52
+412,Claudia,Ramírez,F,claudia.ramírez@universidadvirtual.edu.ar,Argentina,Santa Cruz,7,28,6,45,9,92,2,97
+413,León,Del Río,M,león.del río@universidadvirtual.edu.ar,Argentina,Formosa,4,33,1,19,3,46,2,18
+414,Diego,Henríquez,M,diego.henríquez@universidadvirtual.edu.ar,Argentina,Chaco,7,64,8,38,8,68,3,83
+415,Diego,Sánchez,M,diego.sánchez@universidadvirtual.edu.ar,Argentina,Neuquén,8,44,9,61,6,16,6,02
+416,Jazmín,Téllez,F,jazmín.téllez@universidadvirtual.edu.ar,Argentina,Jujuy,4,78,7,1,94,8,36
+417,Tamara,Del Toro,F,tamara.del toro@universidadvirtual.edu.ar,Argentina,Córdoba,1,07,5,24,8,1,5,68
+418,Javier,Quijano,M,javier.quijano@universidadvirtual.edu.ar,Argentina,Chubut,2,1,8,11,2,9,1,03
+419,Vanesa,Varela,F,vanesa.varela@universidadvirtual.edu.ar,Argentina,Formosa,4,58,9,09,4,67,3,89
+420,Darío,Quezada,M,darío.quezada@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,88,1,42,8,13,4,08
+421,León,Rivas,M,león.rivas@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,9,6,05,1,53,9,32
+422,Olivia,Camacho,F,olivia.camacho@universidadvirtual.edu.ar,Argentina,Catamarca,7,37,5,84,3,63,4,08
+423,Noelia,Parra,F,noelia.parra@universidadvirtual.edu.ar,Argentina,Neuquén,4,41,4,08,9,32,4,18
+424,Luz,Escamilla,F,luz.escamilla@universidadvirtual.edu.ar,Argentina,Salta,9,32,1,22,2,51,4,84
+425,Cristian,Quevedo,M,cristian.quevedo@universidadvirtual.edu.ar,Argentina,Misiones,6,78,5,51,1,3,6,07
+425,Cristian,Quevedo,M,cristian.quevedo@universidadvirtual.edu.ar,Argentina,Misiones,6,78,5,51,1,3,6,07
+426,Mía,Sanabria,F,mía.sanabria@universidadvirtual.edu.ar,Argentina,San Luis,8,99,3,95,6,76,9,22
+427,María,Montiel,F,maría.montiel@universidadvirtual.edu.ar,Argentina,San Juan,8,24,6,59,3,29,9,51
+428,Mauricio,Mares,M,mauricio.mares@universidadvirtual.edu.ar,Argentina,Buenos Aires,6,54,8,88,9,12,6,85
+429,Yamila,Urrutia,F,yamila.urrutia@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,16,8,2,4,62,3,33
+430,Ariel,Valladares,M,ariel.valladares@universidadvirtual.edu.ar,Argentina,La Rioja,2,57,1,74,4,88,9,44
+430,Ariel,Valladares,M,ariel.valladares@universidadvirtual.edu.ar,Argentina,La Rioja,2,57,1,74,4,88,9,44
+431,Luciano,Saavedra,M,luciano.saavedra@universidadvirtual.edu.ar,Argentina,San Luis,4,65,7,27,3,24,1,26
+432,Luciano,Benítez,M,luciano.benítez@universidadvirtual.edu.ar,Argentina,San Luis,6,7,9,01,4,3,7,35
+433,Manuel,Galván,M,manuel.galván@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,5,43,3,82,6,82,3,92
+434,Tomás,Prado,M,tomás.prado@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,21,5,86,8,04,9,28
+435,Manuel,Marroquín,M,manuel.marroquín@universidadvirtual.edu.ar,Argentina,Río Negro,4,1,3,43,4,21,4,42
+436,Agatha,Sánchez,F,agatha.sánchez@universidadvirtual.edu.ar,Argentina,La Rioja,6,59,9,38,2,73,7,61
+437,Delfina,Avelar,F,delfina.avelar@universidadvirtual.edu.ar,Argentina,Jujuy,3,95,5,23,8,2,8,33
+438,Sabrina,Sánchez,F,sabrina.sánchez@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,1,24,1,24,7,36,4,33
+439,Patricia,Sandoval,F,patricia.sandoval@universidadvirtual.edu.ar,Argentina,Chaco,9,72,2,51,1,77,7,22
+440,Pilar,Espinosa,F,pilar.espinosa@universidadvirtual.edu.ar,Argentina,Misiones,7,56,5,7,8,64,5,69
+441,Candela,Bravo,F,candela.bravo@universidadvirtual.edu.ar,Argentina,Neuquén,2,65,8,48,3,58,6,77
+442,Gisela,Pascual,F,gisela.pascual@universidadvirtual.edu.ar,Argentina,Neuquén,5,57,8,94,4,39,8,72
+443,Axel,Requena,M,axel.requena@universidadvirtual.edu.ar,Argentina,Santa Fe,1,59,3,47,4,97,1,16
+444,Valentina,Capdevila,F,valentina.capdevila@universidadvirtual.edu.ar,Argentina,Santa Cruz,7,92,6,86,5,39,7,04
+446,Javier,Molina,M,javier.molina@universidadvirtual.edu.ar,Argentina,Neuquén,4,62,4,4,2,75,2,06
+447,Olivia,Cabrera,F,olivia.cabrera@universidadvirtual.edu.ar,Argentina,Jujuy,2,38,6,41,6,41,5,76
+448,Ezequiel,Del Valle,M,ezequiel.del valle@universidadvirtual.edu.ar,Argentina,San Luis,3,47,1,21,4,42,9,63
+449,Luz,Lepe,F,luz.lepe@universidadvirtual.edu.ar,Argentina,Formosa,8,46,9,07,7,53,3,5
+450,Rocío,Chacón,F,rocío.chacón@universidadvirtual.edu.ar,Argentina,Santa Fe,4,13,1,7,2,4,8,34
+451,Agatha,Ramírez,F,agatha.ramírez@universidadvirtual.edu.ar,Argentina,Catamarca,4,14,9,59,1,54,4,96
+452,Ariel,Macías,M,ariel.macías@universidadvirtual.edu.ar,Argentina,Entre Ríos,7,23,8,08,8,58,9,11
+452,Ariel,Macías,M,ariel.macías@universidadvirtual.edu.ar,Argentina,Entre Ríos,7,23,8,08,8,58,9,11
+453,Graciela,Lucena,F,graciela.lucena@universidadvirtual.edu.ar,Argentina,Salta,1,17,6,91,9,58,6,89
+454,Eugenia,Huerta,F,eugenia.huerta@universidadvirtual.edu.ar,Argentina,Misiones,5,63,4,52,8,2,05
+455,Enzo,Cuéllar,M,enzo.cuéllar@universidadvirtual.edu.ar,Argentina,Santa Fe,3,13,1,47,9,85,5,05
+456,Gael,Cedano,M,gael.cedano@universidadvirtual.edu.ar,Argentina,Chubut,5,9,96,9,76,5,42
+458,Mónica,Ramírez,F,mónica.ramírez@universidadvirtual.edu.ar,Argentina,Misiones,4,68,3,57,1,32,4,59
+459,Hugo,Nieves,M,hugo.nieves@universidadvirtual.edu.ar,Argentina,Tucumán,7,72,7,62,1,29,6,04
+460,Cintia,Pizarro,F,cintia.pizarro@universidadvirtual.edu.ar,Argentina,Córdoba,8,96,5,4,6,41,2,62
+461,Tomás,Olmedo,M,tomás.olmedo@universidadvirtual.edu.ar,Argentina,Chaco,8,84,9,63,9,53,6,72
+462,Néstor,De la Cruz,M,néstor.de la cruz@universidadvirtual.edu.ar,Argentina,Salta,3,79,7,22,4,02,7,79
+463,Fabián,Perdomo,M,fabián.perdomo@universidadvirtual.edu.ar,Argentina,Córdoba,4,2,9,81,2,09,6,4
+464,Lourdes,Correa,F,lourdes.correa@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,1,53,5,79,9,91,2,98
+465,Celeste,Lucero,F,celeste.lucero@universidadvirtual.edu.ar,Argentina,Corrientes,5,08,7,67,1,31,9,27
+466,Emilia,Ortega,F,emilia.ortega@universidadvirtual.edu.ar,Argentina,Santa Fe,7,59,5,15,2,17,3,71
+467,Dante,Pedraza,M,dante.pedraza@universidadvirtual.edu.ar,Argentina,Corrientes,5,98,1,74,8,2,9,18
+468,Santiago,Sanabria,M,santiago.sanabria@universidadvirtual.edu.ar,Argentina,La Pampa,2,9,7,26,6,6,8,1
+469,Raúl,León,M,raúl.león@universidadvirtual.edu.ar,Argentina,La Rioja,3,62,5,34,8,18,8,71
+470,Nazarena,Velasco,F,nazarena.velasco@universidadvirtual.edu.ar,Argentina,Río Negro,3,14,4,76,9,73,8,38
+471,Jazmín,Elizalde,F,jazmín.elizalde@universidadvirtual.edu.ar,Argentina,San Luis,2,42,8,93,1,28,3,02
+472,Máximo,Farías,M,máximo.farías@universidadvirtual.edu.ar,Argentina,Misiones,1,62,6,96,3,96,2,94
+473,Julieta,Chacón,F,julieta.chacón@universidadvirtual.edu.ar,Argentina,La Pampa,2,77,9,77,8,69,9,18
+474,Raúl,Dávila,M,raúl.dávila@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,49,4,32,4,2,6,98
+475,Malena,Colmenares,F,malena.colmenares@universidadvirtual.edu.ar,Argentina,Salta,4,37,9,42,4,42,8,66
+476,Rafael,Quijano,M,rafael.quijano@universidadvirtual.edu.ar,Argentina,Santa Cruz,8,87,5,92,1,93,4,95
+477,Teresa,Quiñones,F,teresa.quiñones@universidadvirtual.edu.ar,Argentina,Chubut,6,29,3,26,5,47,8,62
+478,Tomás,Amaya,M,tomás.amaya@universidadvirtual.edu.ar,Argentina,Chubut,8,78,8,86,4,03,2,79
+479,Brian,Valderrama,M,brian.valderrama@universidadvirtual.edu.ar,Argentina,Chubut,9,06,4,86,1,15,6,34
+480,Ángeles,Álvarez,F,ángeles.álvarez@universidadvirtual.edu.ar,Argentina,Neuquén,7,67,7,37,1,06,3,37
+481,Paula,Contreras,F,paula.contreras@universidadvirtual.edu.ar,Argentina,Chaco,9,99,9,58,3,51,5,5
+482,Omar,Ponce,M,omar.ponce@universidadvirtual.edu.ar,Argentina,Chubut,6,93,1,56,3,13,5,6
+483,Cristian,Mayorga,M,cristian.mayorga@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,73,6,03,4,84,7,77
+483,Cristian,Mayorga,M,cristian.mayorga@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,73,6,03,4,84,7,77
+484,Gisela,Robledo,F,gisela.robledo@universidadvirtual.edu.ar,Argentina,Santiago del Estero,8,48,4,11,5,72,9,87
+485,Marcelo,Tello,M,marcelo.tello@universidadvirtual.edu.ar,Argentina,Mendoza,8,23,9,33,1,99,2,29
+486,Ramiro,Ledesma,M,ramiro.ledesma@universidadvirtual.edu.ar,Argentina,Mendoza,9,8,6,85,1,29,6,84
+487,Florencia,Varela,F,florencia.varela@universidadvirtual.edu.ar,Argentina,Corrientes,5,76,7,39,4,99,9,91
+488,Marcos,Ceballos,M,marcos.ceballos@universidadvirtual.edu.ar,Argentina,Formosa,8,22,6,37,2,77,5,46
+489,Pedro,Saavedra,M,pedro.saavedra@universidadvirtual.edu.ar,Argentina,Chubut,9,8,6,77,5,75,1,85
+490,Ezequiel,Capdevila,M,ezequiel.capdevila@universidadvirtual.edu.ar,Argentina,La Rioja,1,95,1,02,4,57,9,55
+491,Dante,Ramírez,M,dante.ramírez@universidadvirtual.edu.ar,Argentina,La Pampa,3,37,1,34,5,23,4,83
+492,Emilia,Figueroa,F,emilia.figueroa@universidadvirtual.edu.ar,Argentina,Santa Cruz,7,98,4,13,7,04,8,73
+493,Juan,Del Río,M,juan.del río@universidadvirtual.edu.ar,Argentina,Chaco,4,9,5,56,9,73,8,73
+494,Agatha,Jáuregui,F,agatha.jáuregui@universidadvirtual.edu.ar,Argentina,La Pampa,6,53,2,71,6,15,5,18
+495,Pablo,Ceballos,M,pablo.ceballos@universidadvirtual.edu.ar,Argentina,Santa Fe,2,5,83,1,45,7,07
+496,Malena,Alvarado,F,malena.alvarado@universidadvirtual.edu.ar,Argentina,La Rioja,6,3,3,64,1,25,6,45
+497,Mónica,Rangel,F,mónica.rangel@universidadvirtual.edu.ar,Argentina,San Juan,6,65,6,31,9,46,5,32
+498,Norma,Álvarez,F,norma.álvarez@universidadvirtual.edu.ar,Argentina,San Luis,5,33,6,4,6,29,4,32
+499,Lara,Méndez,F,lara.méndez@universidadvirtual.edu.ar,Argentina,Chaco,8,22,4,87,2,05,7,6
+500,María,Varela,F,maría.varela@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,82,8,64,9,76,4,83
+501,Carla,Almada,F,carla.almada@universidadvirtual.edu.ar,Argentina,Santa Cruz,9,06,9,14,5,3,9,99
+502,Candela,Parra,F,candela.parra@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,53,2,17,1,04,8,38
+503,José,Solís,M,josé.solís@universidadvirtual.edu.ar,Argentina,Santiago del Estero,4,77,6,72,4,76,7,75
+504,Javier,Gaytán,M,javier.gaytán@universidadvirtual.edu.ar,Argentina,Córdoba,1,17,3,23,7,11,9,92
+505,Cristian,Del Toro,M,cristian.del toro@universidadvirtual.edu.ar,Argentina,La Rioja,1,78,7,92,2,46,3,38
+505,Cristian,Del Toro,M,cristian.del toro@universidadvirtual.edu.ar,Argentina,La Rioja,1,78,7,92,2,46,3,38
+506,Marcos,Jiménez,M,marcos.jiménez@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,3,8,26,3,09,9,79
+507,Néstor,Aguirre,M,néstor.aguirre@universidadvirtual.edu.ar,Argentina,Chubut,3,2,9,58,7,91,1,06
+508,Álvaro,Parra,M,álvaro.parra@universidadvirtual.edu.ar,Argentina,Neuquén,1,55,9,34,6,35,7,53
+509,Elena,Vázquez,F,elena.vázquez@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,87,3,83,6,45,6,92
+510,Daniela,Prado,F,daniela.prado@universidadvirtual.edu.ar,Argentina,Santa Fe,5,87,6,11,9,98,7,89
+511,Eugenia,Saavedra,F,eugenia.saavedra@universidadvirtual.edu.ar,Argentina,Tucumán,8,55,6,02,4,82,5,96
+512,Ian,Cordero,M,ian.cordero@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,2,6,4,96,5,99,9,96
+513,Ezequiel,Figueroa,M,ezequiel.figueroa@universidadvirtual.edu.ar,Argentina,Misiones,4,71,4,62,8,65,6,82
+514,Simón,Bustamante,M,simón.bustamante@universidadvirtual.edu.ar,Argentina,Mendoza,4,64,4,9,5,22,6,44
+515,Adrián,Villaseñor,M,adrián.villaseñor@universidadvirtual.edu.ar,Argentina,Mendoza,9,31,6,83,8,73,1,55
+516,Tamara,Lepe,F,tamara.lepe@universidadvirtual.edu.ar,Argentina,San Juan,6,38,6,79,5,9,3,22
+517,Damián,Ortega,M,damián.ortega@universidadvirtual.edu.ar,Argentina,Río Negro,6,44,2,16,1,15,5,93
+518,Cintia,Muñoz,F,cintia.muñoz@universidadvirtual.edu.ar,Argentina,Jujuy,5,48,8,82,7,9,9,05
+519,Víctor,Arellano,M,víctor.arellano@universidadvirtual.edu.ar,Argentina,Río Negro,7,95,2,93,9,89,7,78
+520,Víctor,Matos,M,víctor.matos@universidadvirtual.edu.ar,Argentina,Chaco,2,03,5,58,9,17,5,91
+521,Carolina,Campos,F,carolina.campos@universidadvirtual.edu.ar,Argentina,Buenos Aires,2,43,3,1,4,89,5,64
+522,Agatha,Girón,F,agatha.girón@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,6,8,76,1,07,2,97
+523,Agustina,Ledesma,F,agustina.ledesma@universidadvirtual.edu.ar,Argentina,Mendoza,6,3,8,94,9,16,7,05
+524,Bruno,Peralta,M,bruno.peralta@universidadvirtual.edu.ar,Argentina,Santa Fe,9,82,2,02,1,83,9,89
+525,Abril,Izquierdo,F,abril.izquierdo@universidadvirtual.edu.ar,Argentina,Buenos Aires,7,71,6,38,1,98,1,74
+526,Simón,Saucedo,M,simón.saucedo@universidadvirtual.edu.ar,Argentina,San Juan,7,25,2,02,5,29,2,37
+527,Josefina,Alfaro,F,josefina.alfaro@universidadvirtual.edu.ar,Argentina,Misiones,4,5,8,39,7,92,8,6
+528,Estefanía,Castañón,F,estefanía.castañón@universidadvirtual.edu.ar,Argentina,Santa Fe,2,78,2,62,4,48,7,28
+529,Jorge,Escalante,M,jorge.escalante@universidadvirtual.edu.ar,Argentina,Jujuy,5,83,7,44,1,37,7,02
+530,Antonella,Arellano,F,antonella.arellano@universidadvirtual.edu.ar,Argentina,Córdoba,6,8,2,34,9,65,3,23
+531,Tomás,Pineda,M,tomás.pineda@universidadvirtual.edu.ar,Argentina,San Juan,2,46,9,94,8,1,7,88
+532,Lara,Salinas,F,lara.salinas@universidadvirtual.edu.ar,Argentina,Río Negro,5,91,5,65,2,34,1,59
+533,Lucía,Molina,F,lucía.molina@universidadvirtual.edu.ar,Argentina,Misiones,6,82,4,39,4,83,4,16
+534,Simón,Macías,M,simón.macías@universidadvirtual.edu.ar,Argentina,Chubut,3,41,7,58,3,69,7,51
+535,Omar,Cabrera,M,omar.cabrera@universidadvirtual.edu.ar,Argentina,Santa Cruz,3,2,8,24,9,7,6,91
+536,Diego,Lepe,M,diego.lepe@universidadvirtual.edu.ar,Argentina,Formosa,2,97,6,59,3,97,2,06
+537,Joaquín,Almonte,M,joaquín.almonte@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,41,4,39,7,35,2,59
+538,Brenda,Valencia,F,brenda.valencia@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,87,3,34,2,32,6,63
+539,Ariel,Guerrero,M,ariel.guerrero@universidadvirtual.edu.ar,Argentina,Córdoba,7,81,3,7,44,6,21
+539,Ariel,Guerrero,M,ariel.guerrero@universidadvirtual.edu.ar,Argentina,Córdoba,7,81,3,7,44,6,21
+540,Alma,Chacón,F,alma.chacón@universidadvirtual.edu.ar,Argentina,Río Negro,6,88,5,45,5,51,9,88
+541,Néstor,Salguero,M,néstor.salguero@universidadvirtual.edu.ar,Argentina,San Juan,6,07,2,29,7,66,9,98
+542,Luz,Arellano,F,luz.arellano@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,9,95,4,12,8,25,2,57
+543,Paula,Portillo,F,paula.portillo@universidadvirtual.edu.ar,Argentina,Mendoza,6,78,3,78,9,8,5,1
+544,Martín,Fuentes,M,martín.fuentes@universidadvirtual.edu.ar,Argentina,Neuquén,9,36,8,1,3,61,1,24
+545,Máximo,Covarrubias,M,máximo.covarrubias@universidadvirtual.edu.ar,Argentina,Salta,5,3,5,48,9,51,4,36
+546,Ariel,Arguello,M,ariel.arguello@universidadvirtual.edu.ar,Argentina,Formosa,9,55,3,53,9,54,8,72
+546,Ariel,Arguello,M,ariel.arguello@universidadvirtual.edu.ar,Argentina,Formosa,9,55,3,53,9,54,8,72
+547,Gonzalo,Villalobos,M,gonzalo.villalobos@universidadvirtual.edu.ar,Argentina,San Luis,8,71,5,63,4,99,8,49
+548,Graciela,Zamora,F,graciela.zamora@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,3,89,8,62,1,3,9,85
+549,Nicolás,Bastidas,M,nicolás.bastidas@universidadvirtual.edu.ar,Argentina,Mendoza,1,74,6,35,5,52,4,23
+550,Guillermina,Cedillo,F,guillermina.cedillo@universidadvirtual.edu.ar,Argentina,Río Negro,3,21,4,18,7,26,2,44
+551,Ramiro,Palma,M,ramiro.palma@universidadvirtual.edu.ar,Argentina,Buenos Aires,3,32,6,27,1,96,5,34
+552,Mateo,Girón,M,mateo.girón@universidadvirtual.edu.ar,Argentina,Santiago del Estero,9,12,3,45,4,2,2,26
+553,Damián,Gaytán,M,damián.gaytán@universidadvirtual.edu.ar,Argentina,Tucumán,8,81,8,03,4,78,8,22
+554,Carolina,Colmenares,F,carolina.colmenares@universidadvirtual.edu.ar,Argentina,Salta,3,13,2,11,3,53,1,61
+555,Sofía,Izquierdo,F,sofía.izquierdo@universidadvirtual.edu.ar,Argentina,Salta,3,18,4,45,8,63,5,61
+556,Ángel,Sarria,M,ángel.sarria@universidadvirtual.edu.ar,Argentina,La Rioja,8,51,2,54,2,3,3,77
+557,Silvia,Mayorga,F,silvia.mayorga@universidadvirtual.edu.ar,Argentina,Santa Fe,2,77,6,19,1,43,5,75
+558,Iván,Espinoza,M,iván.espinoza@universidadvirtual.edu.ar,Argentina,Catamarca,8,31,7,99,9,64,6,47
+559,Federico,Medina,M,federico.medina@universidadvirtual.edu.ar,Argentina,Catamarca,5,94,8,22,3,39,4,58
+560,Adrián,Villalobos,M,adrián.villalobos@universidadvirtual.edu.ar,Argentina,La Rioja,2,31,2,45,6,37,3,8
+561,Candela,Benítez,F,candela.benítez@universidadvirtual.edu.ar,Argentina,San Juan,7,1,16,7,6,29
+562,Morena,Quiroz,F,morena.quiroz@universidadvirtual.edu.ar,Argentina,Santa Fe,7,07,4,52,9,71,2,79
+563,Paula,Oseguera,F,paula.oseguera@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,39,3,53,9,38,6,07
+564,Lourdes,Rojas,F,lourdes.rojas@universidadvirtual.edu.ar,Argentina,Catamarca,1,67,6,46,6,78,4,71
+565,Gael,Bastidas,M,gael.bastidas@universidadvirtual.edu.ar,Argentina,Jujuy,7,76,8,34,6,13,8,6
+566,Luciano,Covarrubias,M,luciano.covarrubias@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,29,2,22,8,68,7,45
+567,Brian,Robledo,M,brian.robledo@universidadvirtual.edu.ar,Argentina,Buenos Aires,3,62,9,8,9,08,2,51
+568,Mariana,Serrano,F,mariana.serrano@universidadvirtual.edu.ar,Argentina,Corrientes,8,42,1,51,2,86,2,42
+569,Guillermina,Domínguez,F,guillermina.domínguez@universidadvirtual.edu.ar,Argentina,Chubut,8,54,9,64,9,84,2,99
+570,Miguel,Villanueva,M,miguel.villanueva@universidadvirtual.edu.ar,Argentina,Santiago del Estero,9,48,7,05,8,4,6,63
+571,Álvaro,Calderón,M,álvaro.calderón@universidadvirtual.edu.ar,Argentina,Córdoba,1,83,8,8,5,05,7,64
+572,Abril,Lepe,F,abril.lepe@universidadvirtual.edu.ar,Argentina,La Rioja,2,27,4,78,5,3,1,61
+573,Walter,Gómez,M,walter.gómez@universidadvirtual.edu.ar,Argentina,Jujuy,1,63,7,29,2,91,4,48
+574,Laura,Jiménez,F,laura.jiménez@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,8,48,9,61,9,83,4,77
+575,Ángel,Leyva,M,ángel.leyva@universidadvirtual.edu.ar,Argentina,La Rioja,5,99,1,97,5,38,4,34
+576,Micaela,Henríquez,F,micaela.henríquez@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,49,9,04,8,71,9,78
+577,Luis,Velasco,M,luis.velasco@universidadvirtual.edu.ar,Argentina,Santiago del Estero,2,9,8,62,8,55,5,32
+578,Luz,Castañeda,F,luz.castañeda@universidadvirtual.edu.ar,Argentina,Chubut,9,41,4,79,6,4,6,33
+579,Germán,Leyva,M,germán.leyva@universidadvirtual.edu.ar,Argentina,Río Negro,1,7,9,08,4,19,4,98
+580,Álvaro,Colón,M,álvaro.colón@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,97,7,75,3,72,8,85
+581,Bruno,Morillo,M,bruno.morillo@universidadvirtual.edu.ar,Argentina,San Juan,1,48,3,07,1,08,5,08
+582,Fabián,Pedraza,M,fabián.pedraza@universidadvirtual.edu.ar,Argentina,Catamarca,8,39,3,9,9,21,8,7
+583,Mateo,Galindo,M,mateo.galindo@universidadvirtual.edu.ar,Argentina,Santa Fe,8,25,3,34,7,65,2,15
+584,Catalina,Nieves,F,catalina.nieves@universidadvirtual.edu.ar,Argentina,Jujuy,4,87,5,5,8,58,5,43
+585,Simón,Ocampo,M,simón.ocampo@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,26,9,9,7,58,4,23
+586,Pablo,Galván,M,pablo.galván@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,5,36,9,32,1,08,8,76
+587,Kevin,Durán,M,kevin.durán@universidadvirtual.edu.ar,Argentina,Neuquén,4,24,8,76,7,51,8,61
+588,Ariel,Pérez,M,ariel.pérez@universidadvirtual.edu.ar,Argentina,La Rioja,4,17,8,32,9,44,5,12
+588,Ariel,Pérez,M,ariel.pérez@universidadvirtual.edu.ar,Argentina,La Rioja,4,17,8,32,9,44,5,12
+589,Carla,Reza,F,carla.reza@universidadvirtual.edu.ar,Argentina,San Luis,3,96,4,28,4,55,2,75
+590,Estefanía,Oyola,F,estefanía.oyola@universidadvirtual.edu.ar,Argentina,La Pampa,6,13,7,54,8,17,4,33
+591,Candela,Oseguera,F,candela.oseguera@universidadvirtual.edu.ar,Argentina,Mendoza,4,04,5,84,6,52,4,08
+592,Julieta,Bustos,F,julieta.bustos@universidadvirtual.edu.ar,Argentina,Jujuy,6,63,7,37,4,72,7,88
+593,Pilar,Quezada,F,pilar.quezada@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,04,2,16,1,16,2,4
+594,Marcos,García,M,marcos.garcía@universidadvirtual.edu.ar,Argentina,San Luis,7,8,5,09,2,01,9,06
+595,Florencia,Castro,F,florencia.castro@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,37,7,63,4,76,8,5
+596,Gisela,Cordero,F,gisela.cordero@universidadvirtual.edu.ar,Argentina,Chubut,6,73,7,15,8,85,6,25
+597,Tomás,Guevara,M,tomás.guevara@universidadvirtual.edu.ar,Argentina,San Luis,2,41,3,99,4,42,8,54
+598,Cristian,Bastidas,M,cristian.bastidas@universidadvirtual.edu.ar,Argentina,Córdoba,5,18,3,75,8,55,3,28
+598,Cristian,Bastidas,M,cristian.bastidas@universidadvirtual.edu.ar,Argentina,Córdoba,5,18,3,75,8,55,3,28
+599,Martina,Pérez,F,martina.pérez@universidadvirtual.edu.ar,Argentina,Chubut,1,36,5,48,9,26,7,23
+600,Abril,Sazo,F,abril.sazo@universidadvirtual.edu.ar,Argentina,Santa Fe,2,98,2,63,3,98,3,79
+601,Abril,Almonte,F,abril.almonte@universidadvirtual.edu.ar,Argentina,Salta,3,13,2,45,3,48,8,39
+602,Rodrigo,Luján,M,rodrigo.luján@universidadvirtual.edu.ar,Argentina,Chubut,8,66,6,85,7,65,8,87
+603,Paula,Varela,F,paula.varela@universidadvirtual.edu.ar,Argentina,San Luis,8,96,1,09,4,65,5,82
+604,Tamara,Alvarado,F,tamara.alvarado@universidadvirtual.edu.ar,Argentina,Salta,2,81,2,5,7,27,2,29
+605,Catalina,Valenzuela,F,catalina.valenzuela@universidadvirtual.edu.ar,Argentina,Misiones,1,18,3,32,6,63,7,65
+606,Carolina,Cabrera,F,carolina.cabrera@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,9,77,6,84,3,37,9,55
+607,Enzo,Solís,M,enzo.solís@universidadvirtual.edu.ar,Argentina,Santa Fe,9,08,6,65,8,86,8,77
+608,Walter,Del Río,M,walter.del río@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,02,2,89,7,64,1,07
+609,Hugo,Falcón,M,hugo.falcón@universidadvirtual.edu.ar,Argentina,San Juan,9,63,6,04,9,53,4,6
+610,Federico,Coronel,M,federico.coronel@universidadvirtual.edu.ar,Argentina,Entre Ríos,1,45,6,76,5,53,6,27
+611,Cristian,Enciso,M,cristian.enciso@universidadvirtual.edu.ar,Argentina,Salta,9,27,3,03,7,54,9,08
+611,Cristian,Enciso,M,cristian.enciso@universidadvirtual.edu.ar,Argentina,Salta,9,27,3,03,7,54,9,08
+612,Malena,Nieves,F,malena.nieves@universidadvirtual.edu.ar,Argentina,Formosa,3,79,5,1,2,02,1,27
+613,Joaquín,Quezada,M,joaquín.quezada@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,8,61,1,23,5,07,7,32
+614,Agatha,Parra,F,agatha.parra@universidadvirtual.edu.ar,Argentina,Chubut,5,82,8,18,5,18,2,72
+615,Celeste,Encinas,F,celeste.encinas@universidadvirtual.edu.ar,Argentina,Santiago del Estero,4,29,2,6,2,62,5,82
+616,Esteban,Durán,M,esteban.durán@universidadvirtual.edu.ar,Argentina,Chaco,2,94,2,18,9,75,2,54
+617,Kevin,Rivera,M,kevin.rivera@universidadvirtual.edu.ar,Argentina,San Luis,4,47,4,53,7,46,2,18
+618,Lucas,Urbina,M,lucas.urbina@universidadvirtual.edu.ar,Argentina,Tucumán,3,84,6,34,1,32,5,85
+619,Ángel,Requena,M,ángel.requena@universidadvirtual.edu.ar,Argentina,Mendoza,6,18,1,67,3,1,7,16
+620,Emilia,Varela,F,emilia.varela@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,59,2,58,5,09,2,49
+621,Néstor,Esparza,M,néstor.esparza@universidadvirtual.edu.ar,Argentina,Salta,5,02,4,71,5,33,5,82
+622,Patricia,Paredes,F,patricia.paredes@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,81,5,55,2,1,9,03
+623,Pilar,Robles,F,pilar.robles@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,91,5,18,4,83,2,39
+624,Manuel,Amaya,M,manuel.amaya@universidadvirtual.edu.ar,Argentina,Buenos Aires,5,72,7,02,5,98,2,64
+625,Enzo,Dávila,M,enzo.dávila@universidadvirtual.edu.ar,Argentina,Chaco,3,87,1,14,7,25,5,93
+626,Miguel,Lara,M,miguel.lara@universidadvirtual.edu.ar,Argentina,Corrientes,6,8,1,29,1,07,2,64
+627,Elena,Roque,F,elena.roque@universidadvirtual.edu.ar,Argentina,Catamarca,2,46,7,64,5,1,9,09
+628,Agustín,Girón,M,agustín.girón@universidadvirtual.edu.ar,Argentina,Santa Fe,5,65,3,48,5,55,2,64
+629,Bruno,Lara,M,bruno.lara@universidadvirtual.edu.ar,Argentina,Santa Fe,9,18,2,64,4,46,8,68
+630,León,Cárdenas,M,león.cárdenas@universidadvirtual.edu.ar,Argentina,San Juan,9,1,6,44,9,11,5,02
+631,Ariel,Pérez,M,ariel.pérez@universidadvirtual.edu.ar,Argentina,Misiones,6,77,2,73,9,58,5,51
+631,Ariel,Pérez,M,ariel.pérez@universidadvirtual.edu.ar,Argentina,Misiones,6,77,2,73,9,58,5,51
+632,Esteban,Valdez,M,esteban.valdez@universidadvirtual.edu.ar,Argentina,Salta,8,81,8,65,9,57,4,99
+633,Rosa,Roque,F,rosa.roque@universidadvirtual.edu.ar,Argentina,Catamarca,7,27,3,13,6,07,7,26
+634,Elena,Monzón,F,elena.monzón@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,07,7,95,8,77,9,13
+635,Camila,Lucena,F,camila.lucena@universidadvirtual.edu.ar,Argentina,Mendoza,2,23,2,61,9,69,4,24
+636,Santiago,Astudillo,M,santiago.astudillo@universidadvirtual.edu.ar,Argentina,Neuquén,6,83,2,94,4,45,2,51
+637,Micaela,Cardona,F,micaela.cardona@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,53,6,56,3,49,6,69
+638,Jazmín,Delgadillo,F,jazmín.delgadillo@universidadvirtual.edu.ar,Argentina,San Juan,6,72,9,4,4,64,5,59
+639,Ariel,Correa,M,ariel.correa@universidadvirtual.edu.ar,Argentina,Chubut,5,76,1,36,5,49,2,07
+639,Ariel,Correa,M,ariel.correa@universidadvirtual.edu.ar,Argentina,Chubut,5,76,1,36,5,49,2,07
+640,Graciela,Cedano,F,graciela.cedano@universidadvirtual.edu.ar,Argentina,Tucumán,9,32,3,31,4,99,6,57
+641,Ricardo,Falcón,M,ricardo.falcón@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,2,14,4,15,5,19,7,33
+642,Brian,Del Río,M,brian.del río@universidadvirtual.edu.ar,Argentina,Río Negro,4,23,1,58,2,16,5,37
+643,Sofía,Zúñiga,F,sofía.zúñiga@universidadvirtual.edu.ar,Argentina,Santa Fe,7,5,7,35,8,36,5,94
+644,Lucía,Chacón,F,lucía.chacón@universidadvirtual.edu.ar,Argentina,La Rioja,4,94,7,09,1,41,7,96
+645,Adrián,Ledezma,M,adrián.ledezma@universidadvirtual.edu.ar,Argentina,Chubut,9,84,9,08,1,49,4,51
+646,Tomás,Saavedra,M,tomás.saavedra@universidadvirtual.edu.ar,Argentina,Salta,3,39,4,54,6,61,6,21
+647,Mónica,Astudillo,F,mónica.astudillo@universidadvirtual.edu.ar,Argentina,La Rioja,7,18,3,04,9,17,2,48
+648,Álvaro,Bernal,M,álvaro.bernal@universidadvirtual.edu.ar,Argentina,Catamarca,4,95,6,53,2,27,4,28
+649,Lourdes,Herrera,F,lourdes.herrera@universidadvirtual.edu.ar,Argentina,Misiones,5,5,6,21,6,48,5,17
+650,Melina,Noriega,F,melina.noriega@universidadvirtual.edu.ar,Argentina,Río Negro,4,95,6,84,7,21,3,46
+651,Florencia,Tejada,F,florencia.tejada@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,72,6,21,4,13,3,9
+652,Carla,Domínguez,F,carla.domínguez@universidadvirtual.edu.ar,Argentina,Córdoba,8,96,2,68,2,1,8,26
+653,Santiago,Escudero,M,santiago.escudero@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,64,8,96,9,39,7,8
+654,Germán,Castaño,M,germán.castaño@universidadvirtual.edu.ar,Argentina,La Rioja,2,19,2,59,3,5,1,6
+655,Brian,Vargas,M,brian.vargas@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,2,3,03,9,07,9,78
+656,Laura,Lerma,F,laura.lerma@universidadvirtual.edu.ar,Argentina,Chaco,8,34,9,22,9,97,2,91
+657,Nerea,Fernández,F,nerea.fernández@universidadvirtual.edu.ar,Argentina,Neuquén,4,26,1,1,6,25,3,38
+658,Noelia,Dávalos,F,noelia.dávalos@universidadvirtual.edu.ar,Argentina,Buenos Aires,6,21,2,25,5,89,6,69
+659,Ramiro,Aguayo,M,ramiro.aguayo@universidadvirtual.edu.ar,Argentina,Chubut,5,34,8,52,9,87,1,46
+660,Luciano,Aguayo,M,luciano.aguayo@universidadvirtual.edu.ar,Argentina,Chaco,6,11,2,22,4,57,6,3
+661,Ezequiel,Marroquín,M,ezequiel.marroquín@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,9,66,2,99,2,18,9,92
+662,Delfina,Arellano,F,delfina.arellano@universidadvirtual.edu.ar,Argentina,Neuquén,1,1,8,04,7,56,1
+663,Ariel,Lemus,M,ariel.lemus@universidadvirtual.edu.ar,Argentina,Jujuy,2,9,4,42,5,08,2,62
+663,Ariel,Lemus,M,ariel.lemus@universidadvirtual.edu.ar,Argentina,Jujuy,2,9,4,42,5,08,2,62
+664,Celeste,Delgado,F,celeste.delgado@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,87,9,3,3,04,9,89
+665,Simón,Negrón,M,simón.negrón@universidadvirtual.edu.ar,Argentina,La Rioja,3,23,7,2,6,84,1
+666,Patricia,Tejada,F,patricia.tejada@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,54,1,51,4,51,1,88
+667,Pablo,Portillo,M,pablo.portillo@universidadvirtual.edu.ar,Argentina,Buenos Aires,4,98,3,17,7,87,9,96
+668,Máximo,Tamez,M,máximo.tamez@universidadvirtual.edu.ar,Argentina,Jujuy,6,77,8,94,4,34,6,81
+669,Iván,Suárez,M,iván.suárez@universidadvirtual.edu.ar,Argentina,Santiago del Estero,5,86,9,26,8,45,5,21
+670,Olivia,Garcés,F,olivia.garcés@universidadvirtual.edu.ar,Argentina,San Luis,2,78,4,76,2,7,4,09
+671,Laura,Rivas,F,laura.rivas@universidadvirtual.edu.ar,Argentina,Salta,6,16,2,97,1,95,6,07
+672,Claudia,Prado,F,claudia.prado@universidadvirtual.edu.ar,Argentina,San Luis,4,44,7,49,1,38,8,07
+673,Pedro,Delgado,M,pedro.delgado@universidadvirtual.edu.ar,Argentina,Catamarca,3,69,5,37,8,5,1,97
+674,Sebastián,Reyes,M,sebastián.reyes@universidadvirtual.edu.ar,Argentina,Entre Ríos,1,67,9,92,3,55,6,17
+675,Ana,Barboza,F,ana.barboza@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,99,2,95,8,81,9,69
+676,Luis,Ulloa,M,luis.ulloa@universidadvirtual.edu.ar,Argentina,Santiago del Estero,5,1,7,24,8,73,6,45
+677,Néstor,Jiménez,M,néstor.jiménez@universidadvirtual.edu.ar,Argentina,Formosa,3,49,7,2,6,04,3,95
+678,Omar,Solís,M,omar.solís@universidadvirtual.edu.ar,Argentina,San Luis,2,31,4,4,5,84,6,93
+679,Agustín,Avelar,M,agustín.avelar@universidadvirtual.edu.ar,Argentina,Córdoba,9,22,7,34,9,13,1,39
+680,Raúl,Bañuelos,M,raúl.bañuelos@universidadvirtual.edu.ar,Argentina,Córdoba,4,98,4,91,1,56,3,92
+681,Gisela,Roque,F,gisela.roque@universidadvirtual.edu.ar,Argentina,Formosa,5,13,5,32,7,79,7,29
+682,Brenda,Figueroa,F,brenda.figueroa@universidadvirtual.edu.ar,Argentina,Tucumán,4,48,6,48,6,84,4,49
+683,Silvia,Salazar,F,silvia.salazar@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,12,3,12,4,53,9,74
+684,Ana,Reza,F,ana.reza@universidadvirtual.edu.ar,Argentina,Mendoza,6,53,5,94,2,82,7,23
+685,Raúl,Castellanos,M,raúl.castellanos@universidadvirtual.edu.ar,Argentina,Chubut,2,83,2,41,6,86,3,12
+686,Renata,Espinoza,F,renata.espinoza@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,69,2,16,7,77,8,07
+687,Darío,Ayala,M,darío.ayala@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,5,56,8,51,2,74,7,3
+688,Gonzalo,Palacios,M,gonzalo.palacios@universidadvirtual.edu.ar,Argentina,Buenos Aires,8,8,6,48,5,77,7,69
+689,Eugenia,Palacios,F,eugenia.palacios@universidadvirtual.edu.ar,Argentina,La Pampa,8,75,9,93,1,56,6,45
+690,Víctor,Medina,M,víctor.medina@universidadvirtual.edu.ar,Argentina,San Luis,3,94,7,13,3,1,8,65
+691,Facundo,Varela,M,facundo.varela@universidadvirtual.edu.ar,Argentina,Catamarca,1,49,4,13,3,23,4,85
+692,Thiago,Luna,M,thiago.luna@universidadvirtual.edu.ar,Argentina,Catamarca,7,85,8,77,6,8,1,69
+693,Esteban,Castaño,M,esteban.castaño@universidadvirtual.edu.ar,Argentina,San Luis,1,29,1,19,4,71,5,05
+694,Enzo,Rentería,M,enzo.rentería@universidadvirtual.edu.ar,Argentina,La Rioja,1,4,3,89,4,65,9
+695,Rosa,Garcés,F,rosa.garcés@universidadvirtual.edu.ar,Argentina,Corrientes,4,46,2,88,2,61,9,13
+696,Claudia,Rodríguez,F,claudia.rodríguez@universidadvirtual.edu.ar,Argentina,Santa Cruz,8,8,3,22,2,17,5,96
+697,Agustín,Rangel,M,agustín.rangel@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,18,6,86,2,74,5,87
+698,Jorge,Manríquez,M,jorge.manríquez@universidadvirtual.edu.ar,Argentina,Neuquén,9,36,9,96,7,82,7,41
+699,Morena,Castañeda,F,morena.castañeda@universidadvirtual.edu.ar,Argentina,Chaco,5,88,6,62,9,8,3,58
+700,Alan,Enciso,M,alan.enciso@universidadvirtual.edu.ar,Argentina,Tucumán,2,43,5,8,9,65,7,31
+701,Antonella,Oseguera,F,antonella.oseguera@universidadvirtual.edu.ar,Argentina,San Luis,8,53,4,18,2,41,9,33
+702,Antonella,Calderón,F,antonella.calderón@universidadvirtual.edu.ar,Argentina,Jujuy,1,31,5,67,9,01,8,73
+704,Micaela,Sarmiento,F,micaela.sarmiento@universidadvirtual.edu.ar,Argentina,La Pampa,5,6,5,06,5,14,8,66
+705,Norma,Prado,F,norma.prado@universidadvirtual.edu.ar,Argentina,La Pampa,7,17,6,88,2,69,5,66
+706,Simón,Padilla,M,simón.padilla@universidadvirtual.edu.ar,Argentina,Entre Ríos,2,62,9,42,3,49,9,13
+707,Ramiro,Escalante,M,ramiro.escalante@universidadvirtual.edu.ar,Argentina,Formosa,1,68,9,23,8,18,6,79
+708,Federico,Ordóñez,M,federico.ordóñez@universidadvirtual.edu.ar,Argentina,Mendoza,9,6,7,73,6,55,1,94
+709,Omar,Becerra,M,omar.becerra@universidadvirtual.edu.ar,Argentina,Santa Fe,7,78,7,08,6,76,8,24
+710,Morena,Olivares,F,morena.olivares@universidadvirtual.edu.ar,Argentina,Jujuy,7,94,8,85,6,51,2,65
+711,Carmen,Escalante,F,carmen.escalante@universidadvirtual.edu.ar,Argentina,Córdoba,8,44,2,55,8,57,4,2
+712,Camila,Vargas,F,camila.vargas@universidadvirtual.edu.ar,Argentina,Chaco,4,11,4,1,5,2,4,57
+713,Valentina,Delgadillo,F,valentina.delgadillo@universidadvirtual.edu.ar,Argentina,Santa Cruz,8,4,2,76,1,16,9,96
+714,Malena,Falcón,F,malena.falcón@universidadvirtual.edu.ar,Argentina,Chubut,2,97,6,11,4,23,2,74
+715,Ezequiel,Beltrán,M,ezequiel.beltrán@universidadvirtual.edu.ar,Argentina,San Juan,9,73,3,37,9,16,2,76
+716,Luciano,Olmedo,M,luciano.olmedo@universidadvirtual.edu.ar,Argentina,Río Negro,7,72,9,2,9,28,4,03
+717,Víctor,Castellanos,M,víctor.castellanos@universidadvirtual.edu.ar,Argentina,Santa Cruz,9,2,3,63,8,3,16
+718,Franco,Roque,M,franco.roque@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,6,01,1,79,4,05,5,22
+719,Malena,Tapia,F,malena.tapia@universidadvirtual.edu.ar,Argentina,Tucumán,8,1,4,69,9,54,9,81
+720,Omar,Obando,M,omar.obando@universidadvirtual.edu.ar,Argentina,Santa Cruz,1,16,2,95,5,7,9,79
+721,Andrés,Colmenares,M,andrés.colmenares@universidadvirtual.edu.ar,Argentina,Entre Ríos,1,72,5,64,9,79,3,67
+722,Cristian,Arguello,M,cristian.arguello@universidadvirtual.edu.ar,Argentina,Santa Fe,5,1,3,38,1,87,8,08
+722,Cristian,Arguello,M,cristian.arguello@universidadvirtual.edu.ar,Argentina,Santa Fe,5,1,3,38,1,87,8,08
+723,Pedro,Villanueva,M,pedro.villanueva@universidadvirtual.edu.ar,Argentina,Tucumán,3,01,9,58,3,52,2,15
+724,Morena,Sarria,F,morena.sarria@universidadvirtual.edu.ar,Argentina,Neuquén,1,53,4,61,4,39,9,35
+725,Teresa,Cedillo,F,teresa.cedillo@universidadvirtual.edu.ar,Argentina,Neuquén,7,74,4,72,6,58,7,91
+726,Dante,Yáñez,M,dante.yáñez@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,8,2,13,7,88,3,6
+727,Alma,Ponce,F,alma.ponce@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,8,34,2,82,8,92,8,05
+728,Carla,Coronel,F,carla.coronel@universidadvirtual.edu.ar,Argentina,Salta,1,47,7,83,5,85,4,57
+729,Mariana,Cuenca,F,mariana.cuenca@universidadvirtual.edu.ar,Argentina,Tucumán,1,45,9,04,6,43,9,44
+730,Celeste,Dávalos,F,celeste.dávalos@universidadvirtual.edu.ar,Argentina,Córdoba,6,8,33,9,05,4,63
+731,Nerea,Falcón,F,nerea.falcón@universidadvirtual.edu.ar,Argentina,Formosa,2,53,5,99,7,29,6,32
+732,Juan,Muñiz,M,juan.muñiz@universidadvirtual.edu.ar,Argentina,Chaco,1,64,6,87,6,49,8,5
+733,Omar,Peralta,M,omar.peralta@universidadvirtual.edu.ar,Argentina,La Rioja,7,47,5,16,6,59,7,77
+734,Tamara,Bustamante,F,tamara.bustamante@universidadvirtual.edu.ar,Argentina,Formosa,2,32,7,09,6,21,8
+735,Vanesa,Silva,F,vanesa.silva@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,04,4,88,9,49,7,83
+736,Rodrigo,Muñiz,M,rodrigo.muñiz@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,52,5,2,2,95,7,02
+737,Benjamín,Alfaro,M,benjamín.alfaro@universidadvirtual.edu.ar,Argentina,Mendoza,8,84,8,67,7,06,2,44
+738,Claudia,Zamora,F,claudia.zamora@universidadvirtual.edu.ar,Argentina,Chaco,6,98,5,13,5,46,9,08
+739,Sebastián,Del Cid,M,sebastián.del cid@universidadvirtual.edu.ar,Argentina,Santa Fe,6,3,7,74,7,39,8,32
+740,Carla,Del Valle,F,carla.del valle@universidadvirtual.edu.ar,Argentina,La Rioja,6,27,7,16,8,37,9,41
+741,Ana,Urrutia,F,ana.urrutia@universidadvirtual.edu.ar,Argentina,Buenos Aires,7,82,2,35,1,82,5,18
+742,Brian,Alfaro,M,brian.alfaro@universidadvirtual.edu.ar,Argentina,Formosa,8,4,9,89,2,31,4,24
+743,Ailén,Meneses,F,ailén.meneses@universidadvirtual.edu.ar,Argentina,Santa Cruz,9,89,1,97,8,51,9,89
+744,Carolina,Villegas,F,carolina.villegas@universidadvirtual.edu.ar,Argentina,Santa Cruz,3,84,6,53,7,1,4,12
+745,Álvaro,Amaya,M,álvaro.amaya@universidadvirtual.edu.ar,Argentina,Neuquén,8,73,2,98,7,69,8,66
+746,Mauricio,Bañuelos,M,mauricio.bañuelos@universidadvirtual.edu.ar,Argentina,Chaco,4,44,3,16,3,76,6,92
+747,José,Martínez,M,josé.martínez@universidadvirtual.edu.ar,Argentina,Mendoza,6,89,6,38,8,73,8,52
+748,Sofía,Infante,F,sofía.infante@universidadvirtual.edu.ar,Argentina,Santa Fe,6,66,5,36,2,14,8,68
+749,Ariel,Sepúlveda,M,ariel.sepúlveda@universidadvirtual.edu.ar,Argentina,Santa Fe,2,46,6,49,4,21,6,88
+749,Ariel,Sepúlveda,M,ariel.sepúlveda@universidadvirtual.edu.ar,Argentina,Santa Fe,2,46,6,49,4,21,6,88
+750,Jorge,Lara,M,jorge.lara@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,9,53,7,05,2,85,1,78
+751,Sabrina,Huerta,F,sabrina.huerta@universidadvirtual.edu.ar,Argentina,Entre Ríos,4,41,5,94,9,91,3,2
+752,Rodrigo,Bautista,M,rodrigo.bautista@universidadvirtual.edu.ar,Argentina,Formosa,8,53,8,24,4,47,1,42
+753,Mariana,Lara,F,mariana.lara@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,6,2,55,8,79,6,12
+754,Estefanía,Bravo,F,estefanía.bravo@universidadvirtual.edu.ar,Argentina,Catamarca,2,19,7,9,1,3,4,04
+755,Claudia,Tobar,F,claudia.tobar@universidadvirtual.edu.ar,Argentina,Santiago del Estero,3,57,8,81,3,53,2,59
+756,Ailén,Leyva,F,ailén.leyva@universidadvirtual.edu.ar,Argentina,Chubut,4,42,5,91,5,72,4,85
+757,Axel,Mares,M,axel.mares@universidadvirtual.edu.ar,Argentina,Santiago del Estero,8,99,4,92,6,66,4,24
+758,Gisela,Araujo,F,gisela.araujo@universidadvirtual.edu.ar,Argentina,Misiones,9,78,7,2,9,14,3,99
+759,Sofía,Meneses,F,sofía.meneses@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,7,48,9,97,3,48,6,43
+760,Víctor,Palacios,M,víctor.palacios@universidadvirtual.edu.ar,Argentina,Santa Fe,4,26,3,24,7,63,9,31
+761,Omar,Benítez,M,omar.benítez@universidadvirtual.edu.ar,Argentina,Misiones,1,93,2,6,7,77,4,26
+762,Alan,Vázquez,M,alan.vázquez@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,5,29,4,83,8,18,2,21
+763,Zoe,Espinosa,F,zoe.espinosa@universidadvirtual.edu.ar,Argentina,Santa Cruz,2,96,6,68,2,07,1,95
+764,Guillermina,Del Cid,F,guillermina.del cid@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,4,08,9,99,2,36,5,73
+765,Abril,Tapia,F,abril.tapia@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,1,6,15,1,6,1,16
+766,Emilia,Cañizares,F,emilia.cañizares@universidadvirtual.edu.ar,Argentina,Mendoza,2,78,4,07,6,04,1,02
+767,Alma,Payán,F,alma.payán@universidadvirtual.edu.ar,Argentina,Salta,1,08,8,57,8,6,3,76
+768,Noelia,Pedraza,F,noelia.pedraza@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,2,68,3,54,7,18,1,91
+769,Agustina,Lira,F,agustina.lira@universidadvirtual.edu.ar,Argentina,San Juan,7,72,2,43,6,3,8,29
+770,Gael,Espinosa,M,gael.espinosa@universidadvirtual.edu.ar,Argentina,Chubut,1,38,3,41,8,08,5,38
+771,Tomás,Cueva,M,tomás.cueva@universidadvirtual.edu.ar,Argentina,Santa Fe,8,75,6,79,4,68,4,82
+772,Emilia,Quintero,F,emilia.quintero@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,99,2,28,6,1,2,79
+773,Melina,Monzón,F,melina.monzón@universidadvirtual.edu.ar,Argentina,Jujuy,6,24,1,63,7,51,4,44
+774,Silvia,Infante,F,silvia.infante@universidadvirtual.edu.ar,Argentina,La Rioja,6,94,2,73,4,59,9,94
+775,Renata,León,F,renata.león@universidadvirtual.edu.ar,Argentina,Córdoba,4,54,7,29,3,47,2,43
+776,Andrés,Oyola,M,andrés.oyola@universidadvirtual.edu.ar,Argentina,Corrientes,8,13,3,58,3,31,7,06
+777,Lara,Cárdenas,F,lara.cárdenas@universidadvirtual.edu.ar,Argentina,Río Negro,1,55,4,17,2,37,5,06
+778,Lourdes,Tamez,F,lourdes.tamez@universidadvirtual.edu.ar,Argentina,Catamarca,2,94,7,76,2,08,3,15
+779,Mía,Salcedo,F,mía.salcedo@universidadvirtual.edu.ar,Argentina,Santa Fe,6,59,1,58,3,9,9,44
+780,Daniela,Avendaño,F,daniela.avendaño@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,34,9,58,1,81,7,86
+781,Damián,Campos,M,damián.campos@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,9,68,9,74,8,55,7,89
+782,Josefina,Alvarado,F,josefina.alvarado@universidadvirtual.edu.ar,Argentina,San Juan,1,33,6,46,4,61,9,92
+783,Ángel,Garcés,M,ángel.garcés@universidadvirtual.edu.ar,Argentina,San Luis,4,45,3,48,5,6,8,95
+784,Morena,Rosales,F,morena.rosales@universidadvirtual.edu.ar,Argentina,Jujuy,8,91,2,13,3,85,7,79
+785,Leandro,Granados,M,leandro.granados@universidadvirtual.edu.ar,Argentina,Chaco,1,06,8,5,1,52,7,19
+786,Dante,Cárdenas,M,dante.cárdenas@universidadvirtual.edu.ar,Argentina,Santa Fe,6,86,7,37,9,35,3,81
+787,Fátima,Beltrán,F,fátima.beltrán@universidadvirtual.edu.ar,Argentina,Santiago del Estero,1,61,7,57,9,51,2,18
+788,Gonzalo,Quijano,M,gonzalo.quijano@universidadvirtual.edu.ar,Argentina,Mendoza,5,95,6,95,2,68,2,12
+789,Lourdes,Rojas,F,lourdes.rojas@universidadvirtual.edu.ar,Argentina,Salta,1,6,7,7,8,07,1,13
+790,Gisela,Falcón,F,gisela.falcón@universidadvirtual.edu.ar,Argentina,Neuquén,7,87,4,57,3,77,3,01
+791,Brenda,Ledesma,F,brenda.ledesma@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,64,8,17,6,37,9,82
+792,Omar,Navarro,M,omar.navarro@universidadvirtual.edu.ar,Argentina,Neuquén,4,8,5,29,8,84,2,34
+793,Rafael,Urbina,M,rafael.urbina@universidadvirtual.edu.ar,Argentina,Jujuy,6,13,7,94,3,7,1,34
+794,Nicolás,Benítez,M,nicolás.benítez@universidadvirtual.edu.ar,Argentina,La Pampa,2,81,5,17,2,04,7,33
+795,Norma,Guerrero,F,norma.guerrero@universidadvirtual.edu.ar,Argentina,Misiones,8,59,4,74,5,35,4,12
+796,Rocío,Robledo,F,rocío.robledo@universidadvirtual.edu.ar,Argentina,Mendoza,5,19,1,57,9,3,5,37
+797,Melina,Mayorga,F,melina.mayorga@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,35,6,67,7,9,2,94
+798,Mía,Troncoso,F,mía.troncoso@universidadvirtual.edu.ar,Argentina,Neuquén,7,8,9,21,5,26,4,71
+799,Nerea,Varela,F,nerea.varela@universidadvirtual.edu.ar,Argentina,Chubut,9,26,7,82,6,65,8,8
+800,Darío,Ayala,M,darío.ayala@universidadvirtual.edu.ar,Argentina,Chaco,5,78,3,85,1,86,8,96
+801,Carmen,Duarte,F,carmen.duarte@universidadvirtual.edu.ar,Argentina,Tucumán,1,55,4,97,2,71,3,62
+802,Luciano,Camacho,M,luciano.camacho@universidadvirtual.edu.ar,Argentina,Santa Fe,8,74,3,26,5,16,9,43
+803,Julián,Juárez,M,julián.juárez@universidadvirtual.edu.ar,Argentina,Misiones,4,52,5,27,9,64,7,78
+804,Delfina,Lepe,F,delfina.lepe@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,46,3,72,2,26,4,66
+805,Iván,Maldonado,M,iván.maldonado@universidadvirtual.edu.ar,Argentina,Entre Ríos,6,79,6,07,6,22,1,66
+806,Jazmín,Lemus,F,jazmín.lemus@universidadvirtual.edu.ar,Argentina,Chubut,4,5,8,67,4,04,3,09
+807,Thiago,Campos,M,thiago.campos@universidadvirtual.edu.ar,Argentina,Santa Cruz,6,97,2,14,2,19,2,02
+808,Leandro,Sánchez,M,leandro.sánchez@universidadvirtual.edu.ar,Argentina,Catamarca,4,8,8,35,7,55,3,24
+809,Paula,Garcés,F,paula.garcés@universidadvirtual.edu.ar,Argentina,Santiago del Estero,8,82,9,71,2,4,9,86
+810,Dante,Bravo,M,dante.bravo@universidadvirtual.edu.ar,Argentina,Chubut,3,28,6,4,6,43,1,26
+811,Ramiro,Bravo,M,ramiro.bravo@universidadvirtual.edu.ar,Argentina,Santa Fe,2,63,5,99,2,46,1,15
+812,Rafael,Tobar,M,rafael.tobar@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,4,95,9,7,3,88,7,71
+813,Brian,Alvarado,M,brian.alvarado@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,59,1,52,7,6,1,41
+814,Pilar,Pizarro,F,pilar.pizarro@universidadvirtual.edu.ar,Argentina,Jujuy,2,42,7,77,6,67,6,92
+815,Simón,Fonseca,M,simón.fonseca@universidadvirtual.edu.ar,Argentina,Córdoba,2,92,4,39,2,09,9,66
+816,Santiago,Santillán,M,santiago.santillán@universidadvirtual.edu.ar,Argentina,Catamarca,2,78,2,5,9,67,8,81
+817,Milagros,Sosa,F,milagros.sosa@universidadvirtual.edu.ar,Argentina,Neuquén,4,5,8,98,1,99,1,65
+818,Julieta,Vargas,F,julieta.vargas@universidadvirtual.edu.ar,Argentina,Santa Cruz,2,05,8,31,8,8,6,93
+819,Ramiro,Ortega,M,ramiro.ortega@universidadvirtual.edu.ar,Argentina,La Rioja,8,72,3,13,6,81,2,68
+820,Morena,Villegas,F,morena.villegas@universidadvirtual.edu.ar,Argentina,Río Negro,7,59,8,11,4,87,4,73
+821,Ailén,Mayorga,F,ailén.mayorga@universidadvirtual.edu.ar,Argentina,La Rioja,8,9,6,75,4,85,2,41
+822,Estefanía,Leyva,F,estefanía.leyva@universidadvirtual.edu.ar,Argentina,Formosa,3,05,3,96,9,39,1,67
+823,Iván,Herrera,M,iván.herrera@universidadvirtual.edu.ar,Argentina,Jujuy,8,01,9,48,7,83,8,11
+824,Lautaro,Salazar,M,lautaro.salazar@universidadvirtual.edu.ar,Argentina,Misiones,1,4,4,1,9,09,8,3
+825,Luz,Calderón,F,luz.calderón@universidadvirtual.edu.ar,Argentina,Buenos Aires,3,58,3,06,7,93,4,45
+826,Nerea,Ramírez,F,nerea.ramírez@universidadvirtual.edu.ar,Argentina,Misiones,6,2,2,56,5,8,9,94
+827,Sabrina,Perdomo,F,sabrina.perdomo@universidadvirtual.edu.ar,Argentina,San Luis,6,05,5,23,3,18,9,53
+828,Enzo,Erazo,M,enzo.erazo@universidadvirtual.edu.ar,Argentina,Tucumán,6,28,5,2,2,99,6,66
+829,Nicolás,Sazo,M,nicolás.sazo@universidadvirtual.edu.ar,Argentina,Neuquén,5,39,6,8,1,49,9,41
+830,Sergio,Astudillo,M,sergio.astudillo@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,3,43,5,11,7,59,3,1
+831,Vanesa,Salinas,F,vanesa.salinas@universidadvirtual.edu.ar,Argentina,San Juan,8,78,7,12,2,3,4,37
+832,Alan,Enciso,M,alan.enciso@universidadvirtual.edu.ar,Argentina,Entre Ríos,7,49,8,45,6,29,4,42
+833,Zoe,Vega,F,zoe.vega@universidadvirtual.edu.ar,Argentina,Catamarca,7,55,7,4,01,9,61
+834,Franco,Bustamante,M,franco.bustamante@universidadvirtual.edu.ar,Argentina,Córdoba,4,51,5,72,8,78,9,24
+835,Celeste,Santillán,F,celeste.santillán@universidadvirtual.edu.ar,Argentina,Chubut,2,12,7,73,8,76,2,8
+836,Ricardo,Nieves,M,ricardo.nieves@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,7,28,6,03,4,39,9,37
+837,León,Almonte,M,león.almonte@universidadvirtual.edu.ar,Argentina,Santa Fe,8,16,6,64,7,82,6,53
+838,Federico,Suárez,M,federico.suárez@universidadvirtual.edu.ar,Argentina,Santiago del Estero,6,83,8,45,9,93,5,35
+839,Elías,Manríquez,M,elías.manríquez@universidadvirtual.edu.ar,Argentina,Mendoza,8,01,4,93,5,54,4,22
+840,Álvaro,Valenzuela,M,álvaro.valenzuela@universidadvirtual.edu.ar,Argentina,Jujuy,3,03,9,72,9,59,1,61
+841,Marcos,Astudillo,M,marcos.astudillo@universidadvirtual.edu.ar,Argentina,Salta,8,29,9,26,8,61,9,76
+842,Gael,Dávila,M,gael.dávila@universidadvirtual.edu.ar,Argentina,Santa Cruz,5,46,8,47,4,76,3,84
+843,Josefina,Payán,F,josefina.payán@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,2,12,1,83,3,74,2,77
+844,Pablo,Vega,M,pablo.vega@universidadvirtual.edu.ar,Argentina,La Rioja,9,08,2,88,2,52,8,29
+845,Catalina,Correa,F,catalina.correa@universidadvirtual.edu.ar,Argentina,San Luis,1,86,7,64,1,83,1,04
+846,Omar,Barboza,M,omar.barboza@universidadvirtual.edu.ar,Argentina,Santiago del Estero,5,2,47,9,19,6,33
+847,Valentina,Tejada,F,valentina.tejada@universidadvirtual.edu.ar,Argentina,Tucumán,2,79,8,78,5,55,6,25
+848,Luciano,Arellano,M,luciano.arellano@universidadvirtual.edu.ar,Argentina,Chaco,1,68,9,44,3,79,3,1
+849,Valentina,Leyva,F,valentina.leyva@universidadvirtual.edu.ar,Argentina,La Rioja,4,04,9,24,3,57,7,71
+850,Ailén,Montiel,F,ailén.montiel@universidadvirtual.edu.ar,Argentina,Santa Cruz,1,33,2,95,2,25,9,21
+851,Bruno,Castañeda,M,bruno.castañeda@universidadvirtual.edu.ar,Argentina,Entre Ríos,2,7,5,48,6,04,1,18
+852,Daniela,Ocampo,F,daniela.ocampo@universidadvirtual.edu.ar,Argentina,Santa Fe,4,17,8,64,5,52,7,65
+853,Ailén,Villalobos,F,ailén.villalobos@universidadvirtual.edu.ar,Argentina,Chubut,4,59,2,12,5,89,2,18
+854,Gonzalo,Perdomo,M,gonzalo.perdomo@universidadvirtual.edu.ar,Argentina,La Pampa,8,91,6,84,2,59,4,39
+855,Candela,Figueroa,F,candela.figueroa@universidadvirtual.edu.ar,Argentina,San Luis,8,57,6,95,1,19,6,85
+856,Pedro,Monzón,M,pedro.monzón@universidadvirtual.edu.ar,Argentina,Buenos Aires,3,6,6,73,8,34,9,05
+857,Camila,Ordóñez,F,camila.ordóñez@universidadvirtual.edu.ar,Argentina,Catamarca,3,09,1,26,6,12,7,8
+858,Valentina,Luján,F,valentina.luján@universidadvirtual.edu.ar,Argentina,La Rioja,4,52,9,08,5,77,5,31
+859,Dante,Portillo,M,dante.portillo@universidadvirtual.edu.ar,Argentina,Neuquén,5,74,1,56,9,11,7,65
+860,Ángeles,Saucedo,F,ángeles.saucedo@universidadvirtual.edu.ar,Argentina,Misiones,6,75,4,59,7,19,6,65
+861,Luz,Contreras,F,luz.contreras@universidadvirtual.edu.ar,Argentina,San Juan,9,81,6,53,7,5,3,59
+862,Javier,Amaya,M,javier.amaya@universidadvirtual.edu.ar,Argentina,Córdoba,4,62,3,34,1,08,1,06
+863,Mónica,Nieves,F,mónica.nieves@universidadvirtual.edu.ar,Argentina,Jujuy,7,1,5,2,2,9,5,74
+864,Mónica,Araujo,F,mónica.araujo@universidadvirtual.edu.ar,Argentina,Santa Fe,1,87,4,5,3,08,5,97
+865,Olivia,Herrera,F,olivia.herrera@universidadvirtual.edu.ar,Argentina,La Rioja,4,84,3,69,1,61,7,14
+866,Andrés,Luján,M,andrés.luján@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,1,06,8,27,8,76,2,48
+867,Leandro,Aguayo,M,leandro.aguayo@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,2,52,5,72,2,94,6,84
+868,Bruno,Ledesma,M,bruno.ledesma@universidadvirtual.edu.ar,Argentina,Formosa,5,54,7,02,8,42,4,05
+869,Luis,Rojas,M,luis.rojas@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,92,6,35,7,67,5,87
+870,Nicolás,Caraballo,M,nicolás.caraballo@universidadvirtual.edu.ar,Argentina,Chubut,1,91,6,36,7,68,7,71
+871,Abril,Del Valle,F,abril.del valle@universidadvirtual.edu.ar,Argentina,San Luis,7,72,9,08,8,68,8,32
+872,Juan,Reséndiz,M,juan.reséndiz@universidadvirtual.edu.ar,Argentina,Córdoba,7,05,9,2,8,2,38
+873,Estefanía,Luján,F,estefanía.luján@universidadvirtual.edu.ar,Argentina,Corrientes,3,52,9,93,6,69,8,78
+874,José,Galindo,M,josé.galindo@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,02,9,52,7,26,8,85
+875,Javier,Erazo,M,javier.erazo@universidadvirtual.edu.ar,Argentina,Santa Cruz,7,31,7,7,3,43,4,16
+876,Melina,Saavedra,F,melina.saavedra@universidadvirtual.edu.ar,Argentina,Entre Ríos,6,38,1,19,4,46,3,02
+877,Axel,Mares,M,axel.mares@universidadvirtual.edu.ar,Argentina,Buenos Aires,7,59,7,26,1,59,1,79
+878,Rodrigo,Molina,M,rodrigo.molina@universidadvirtual.edu.ar,Argentina,La Pampa,5,84,7,61,6,24,8,65
+879,Damián,Camacho,M,damián.camacho@universidadvirtual.edu.ar,Argentina,Misiones,2,96,7,98,2,52,1,85
+880,Rosa,Llamas,F,rosa.llamas@universidadvirtual.edu.ar,Argentina,Misiones,3,25,7,35,7,96,3,81
+881,Carmen,Garcés,F,carmen.garcés@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,45,8,87,7,38,7,54
+882,Renata,Encinas,F,renata.encinas@universidadvirtual.edu.ar,Argentina,Chubut,3,46,4,24,1,99,1,92
+883,Ian,Vargas,M,ian.vargas@universidadvirtual.edu.ar,Argentina,Río Negro,8,54,2,53,3,26,8,13
+884,Elena,López,F,elena.lópez@universidadvirtual.edu.ar,Argentina,San Luis,6,78,8,18,5,1,3,66
+885,Abril,Díaz,F,abril.díaz@universidadvirtual.edu.ar,Argentina,Tucumán,6,65,7,83,3,54,9,92
+886,Andrés,Juárez,M,andrés.juárez@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,24,6,6,48,2,83
+887,Ian,Amaya,M,ian.amaya@universidadvirtual.edu.ar,Argentina,Chubut,9,6,9,17,4,76,2,26
+888,Javier,Solís,M,javier.solís@universidadvirtual.edu.ar,Argentina,Chaco,5,05,9,68,1,69,5,8
+889,Jazmín,Ibarra,F,jazmín.ibarra@universidadvirtual.edu.ar,Argentina,Mendoza,5,6,4,61,9,66,5,71
+890,Tamara,Varela,F,tamara.varela@universidadvirtual.edu.ar,Argentina,Mendoza,8,8,6,99,2,68,1,77
+891,Néstor,Trejo,M,néstor.trejo@universidadvirtual.edu.ar,Argentina,Santa Cruz,4,64,6,72,3,13,9,26
+892,Nerea,Tovar,F,nerea.tovar@universidadvirtual.edu.ar,Argentina,Corrientes,3,28,6,3,9,23,5
+893,Miguel,Ledesma,M,miguel.ledesma@universidadvirtual.edu.ar,Argentina,Catamarca,3,92,2,6,6,02,2,48
+894,Ailén,Farías,F,ailén.farías@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,9,47,9,73,9,89,7,91
+895,Micaela,Bañuelos,F,micaela.bañuelos@universidadvirtual.edu.ar,Argentina,Entre Ríos,1,12,3,19,4,91,5,26
+896,Julián,Ordóñez,M,julián.ordóñez@universidadvirtual.edu.ar,Argentina,Salta,8,94,1,43,8,28,4,13
+897,Rafael,Roque,M,rafael.roque@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,8,25,4,28,5,53,1,82
+898,Carmen,Serrano,F,carmen.serrano@universidadvirtual.edu.ar,Argentina,La Rioja,9,11,2,94,3,95,5,55
+899,Walter,Juárez,M,walter.juárez@universidadvirtual.edu.ar,Argentina,San Luis,1,86,7,2,2,74,8,23
+900,Agustín,Escamilla,M,agustín.escamilla@universidadvirtual.edu.ar,Argentina,Córdoba,5,53,2,6,8,62,7,56
+901,Melina,Escudero,F,melina.escudero@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,87,9,45,7,98,8,75
+902,Julián,Sepúlveda,M,julián.sepúlveda@universidadvirtual.edu.ar,Argentina,La Pampa,2,04,2,68,8,07,3,96
+903,Nerea,Saucedo,F,nerea.saucedo@universidadvirtual.edu.ar,Argentina,Jujuy,3,58,1,85,9,87,8,53
+904,Juan,González,M,juan.gonzález@universidadvirtual.edu.ar,Argentina,Salta,8,69,8,32,6,74,3,56
+905,Federico,Sanabria,M,federico.sanabria@universidadvirtual.edu.ar,Argentina,Chubut,1,05,2,9,9,76,8,41
+906,Sabrina,Llamas,F,sabrina.llamas@universidadvirtual.edu.ar,Argentina,Entre Ríos,4,74,8,93,2,25,5,97
+907,Elena,Piña,F,elena.piña@universidadvirtual.edu.ar,Argentina,San Juan,3,91,4,39,2,89,4,71
+908,Santiago,Rangel,M,santiago.rangel@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,1,17,7,88,6,76,4,92
+909,Leandro,Izquierdo,M,leandro.izquierdo@universidadvirtual.edu.ar,Argentina,Río Negro,9,76,5,83,5,86,4,35
+910,Pedro,Robles,M,pedro.robles@universidadvirtual.edu.ar,Argentina,Río Negro,8,79,1,08,6,14,4,44
+911,Nayla,Serrano,F,nayla.serrano@universidadvirtual.edu.ar,Argentina,Salta,1,77,2,23,2,06,1,42
+912,Lara,Pizarro,F,lara.pizarro@universidadvirtual.edu.ar,Argentina,Mendoza,7,85,4,59,6,7,9,65
+913,Patricia,Gaytán,F,patricia.gaytán@universidadvirtual.edu.ar,Argentina,Ciudad Autónoma de Buenos Aires,7,64,5,45,2,7,7,96
+914,Abril,Maturana,F,abril.maturana@universidadvirtual.edu.ar,Argentina,Entre Ríos,4,17,4,83,1,43,9,03
+915,Gael,Barboza,M,gael.barboza@universidadvirtual.edu.ar,Argentina,Santiago del Estero,7,72,9,79,1,29,3,11
+916,María,Godínez,F,maría.godínez@universidadvirtual.edu.ar,Argentina,Formosa,7,54,2,25,2,51,7,53
+917,Carolina,Quintero,F,carolina.quintero@universidadvirtual.edu.ar,Argentina,Entre Ríos,3,58,4,59,2,94,5,03
+918,Nerea,Céspedes,F,nerea.céspedes@universidadvirtual.edu.ar,Argentina,Río Negro,7,07,3,96,4,21,3,85
+919,Josefina,Chaves,F,josefina.chaves@universidadvirtual.edu.ar,Argentina,San Luis,6,53,5,09,6,41,8,9
+920,Sabrina,Carranza,F,sabrina.carranza@universidadvirtual.edu.ar,Argentina,Catamarca,8,76,9,37,1,12,3,61
+921,Sabrina,Garay,F,sabrina.garay@universidadvirtual.edu.ar,Argentina,Salta,1,94,2,68,7,13,2,12
+922,Milagros,Cuéllar,F,milagros.cuéllar@universidadvirtual.edu.ar,Argentina,Río Negro,4,28,8,79,2,65,1
+923,Marcelo,Encinas,M,marcelo.encinas@universidadvirtual.edu.ar,Argentina,Chaco,1,89,9,91,4,05,1,56
+924,Ailén,Bernal,F,ailén.bernal@universidadvirtual.edu.ar,Argentina,Buenos Aires,2,73,5,68,8,47,8,17
+925,León,Esparza,M,león.esparza@universidadvirtual.edu.ar,Argentina,Santiago del Estero,5,03,6,27,9,55,5,58
+926,Renata,Valderrama,F,renata.valderrama@universidadvirtual.edu.ar,Argentina,Misiones,5,26,9,91,4,14,6,06
+927,Brenda,Henríquez,F,brenda.henríquez@universidadvirtual.edu.ar,Argentina,Santiago del Estero,2,64,7,66,5,4,9,89
+928,Carolina,Roque,F,carolina.roque@universidadvirtual.edu.ar,Argentina,Corrientes,6,07,8,97,3,32,1,89
+929,Sabrina,Garcés,F,sabrina.garcés@universidadvirtual.edu.ar,Argentina,La Pampa,3,08,6,97,2,67,5,98
+930,Santiago,Infante,M,santiago.infante@universidadvirtual.edu.ar,Argentina,Buenos Aires,1,15,7,75,3,72,9,22
+931,Ariel,Jáuregui,M,ariel.jáuregui@universidadvirtual.edu.ar,Argentina,Santiago del Estero,1,66,9,6,8,39,9,78
+931,Ariel,Jáuregui,M,ariel.jáuregui@universidadvirtual.edu.ar,Argentina,Santiago del Estero,1,66,9,6,8,39,9,78
+932,Facundo,Encinas,M,facundo.encinas@universidadvirtual.edu.ar,Argentina,Catamarca,2,44,5,15,2,37,5,73
+933,Jazmín,Salazar,F,jazmín.salazar@universidadvirtual.edu.ar,Argentina,Formosa,6,65,4,48,8,72,3,7
+934,Esteban,Romero,M,esteban.romero@universidadvirtual.edu.ar,Argentina,San Luis,5,45,7,25,6,85,7,7
+935,Raúl,Herrera,M,raúl.herrera@universidadvirtual.edu.ar,Argentina,San Luis,2,96,5,06,4,26,7,34
+936,Jazmín,Arce,F,jazmín.arce@universidadvirtual.edu.ar,Argentina,La Rioja,6,22,2,37,6,03,9
+937,Antonella,Palma,F,antonella.palma@universidadvirtual.edu.ar,Argentina,La Rioja,7,18,6,74,5,71,7,39
+938,Lidia,Oyola,F,lidia.oyola@universidadvirtual.edu.ar,Argentina,Formosa,2,85,6,2,3,12,7,34
+939,Tomás,Negrón,M,tomás.negrón@universidadvirtual.edu.ar,Argentina,Chaco,6,9,5,1,7,53,9,48
+940,Agustina,Lepe,F,agustina.lepe@universidadvirtual.edu.ar,Argentina,Catamarca,8,36,5,36,2,1,14
+941,Rodrigo,Maturana,M,rodrigo.maturana@universidadvirtual.edu.ar,Argentina,San Luis,9,59,8,95,1,5,5,61
+942,Zoe,Montiel,F,zoe.montiel@universidadvirtual.edu.ar,Argentina,Chubut,5,96,5,42,6,68,3,38
+943,Valentín,Erazo,M,valentín.erazo@universidadvirtual.edu.ar,Argentina,San Luis,8,2,1,74,8,22,9,46
+944,Javier,Portillo,M,javier.portillo@universidadvirtual.edu.ar,Argentina,Formosa,4,69,7,37,5,07,6,03
+945,Pilar,Bañuelos,F,pilar.bañuelos@universidadvirtual.edu.ar,Argentina,La Pampa,8,6,5,88,6,53,1,81
+946,Raúl,Bautista,M,raúl.bautista@universidadvirtual.edu.ar,Argentina,Buenos Aires,5,69,1,67,5,11,6,95
+947,Micaela,García,F,micaela.garcía@universidadvirtual.edu.ar,Argentina,La Rioja,3,4,4,17,7,23,5,81
+948,Axel,Campos,M,axel.campos@universidadvirtual.edu.ar,Argentina,Misiones,1,01,9,75,3,07,8,53
+949,Ian,Cruz,M,ian.cruz@universidadvirtual.edu.ar,Argentina,Chubut,8,63,1,24,2,13,8,97
+950,Olivia,Obando,F,olivia.obando@universidadvirtual.edu.ar,Argentina,Salta,9,55,3,08,4,74,5,66
+951,Claudia,Salazar,F,claudia.salazar@universidadvirtual.edu.ar,Argentina,Corrientes,5,58,8,11,9,09,7,42
+952,Facundo,Tovar,M,facundo.tovar@universidadvirtual.edu.ar,Argentina,Catamarca,4,84,7,24,2,99,9,95
+953,Catalina,Palacios,F,catalina.palacios@universidadvirtual.edu.ar,Argentina,Santa Fe,2,98,1,19,2,91,4,8
+954,Germán,Quiroz,M,germán.quiroz@universidadvirtual.edu.ar,Argentina,Neuquén,9,77,9,67,1,96,7,61
+955,Raúl,Tamez,M,raúl.tamez@universidadvirtual.edu.ar,Argentina,Córdoba,8,85,2,44,5,47,3,38
+956,Lourdes,Meneses,F,lourdes.meneses@universidadvirtual.edu.ar,Argentina,Formosa,6,68,8,6,4,83,4,76
+957,Rosa,Andrada,F,rosa.andrada@universidadvirtual.edu.ar,Argentina,Chubut,3,31,4,32,1,44,3,41
+958,Benjamín,Álvarez,M,benjamín.álvarez@universidadvirtual.edu.ar,Argentina,Neuquén,1,02,1,93,2,21,6,85
+959,Bianca,Lemus,F,bianca.lemus@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,3,8,24,5,61,2,34
+960,Emilia,Castellanos,F,emilia.castellanos@universidadvirtual.edu.ar,Argentina,Santa Fe,6,09,8,5,79,1,96
+961,Belén,Silva,F,belén.silva@universidadvirtual.edu.ar,Argentina,Catamarca,9,91,2,47,1,46,5,91
+962,Patricia,Payán,F,patricia.payán@universidadvirtual.edu.ar,Argentina,Río Negro,8,52,5,59,4,32,6,42
+963,Ariel,Aragón,M,ariel.aragón@universidadvirtual.edu.ar,Argentina,Tucumán,6,47,2,38,3,7,2,36
+963,Ariel,Aragón,M,ariel.aragón@universidadvirtual.edu.ar,Argentina,Tucumán,6,47,2,38,3,7,2,36
+964,Lucas,Cabrera,M,lucas.cabrera@universidadvirtual.edu.ar,Argentina,Salta,5,8,5,02,9,98,1,57
+965,Mauricio,Escamilla,M,mauricio.escamilla@universidadvirtual.edu.ar,Argentina,Jujuy,7,21,6,03,3,09,8,95
+966,Abril,Fonseca,F,abril.fonseca@universidadvirtual.edu.ar,Argentina,Santa Cruz,8,91,8,23,3,88,3,78
+967,Ariel,Aparicio,M,ariel.aparicio@universidadvirtual.edu.ar,Argentina,Catamarca,3,12,8,69,4,83,8,29
+967,Ariel,Aparicio,M,ariel.aparicio@universidadvirtual.edu.ar,Argentina,Catamarca,3,12,8,69,4,83,8,29
+968,Tomás,Enciso,M,tomás.enciso@universidadvirtual.edu.ar,Argentina,Salta,1,72,5,01,3,9,8,92
+969,Manuel,Beltrán,M,manuel.beltrán@universidadvirtual.edu.ar,Argentina,Corrientes,2,9,5,34,6,18,3,11
+970,Leandro,Bustos,M,leandro.bustos@universidadvirtual.edu.ar,Argentina,Formosa,3,92,6,52,2,07,1,41
+971,Leandro,Mejía,M,leandro.mejía@universidadvirtual.edu.ar,Argentina,Corrientes,5,04,8,41,5,29,8,94
+972,Celeste,Zúñiga,F,celeste.zúñiga@universidadvirtual.edu.ar,Argentina,La Pampa,6,15,6,03,9,57,4,94
+973,Alma,Bautista,F,alma.bautista@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,7,22,1,95,6,69,3,43
+974,Zoe,Santillán,F,zoe.santillán@universidadvirtual.edu.ar,Argentina,Chaco,5,93,9,02,5,14,4,94
+975,Esteban,Nieves,M,esteban.nieves@universidadvirtual.edu.ar,Argentina,San Juan,1,77,9,15,9,91,2,6
+976,Mía,Díaz,F,mía.díaz@universidadvirtual.edu.ar,Argentina,Santa Fe,4,88,5,46,5,76,5,47
+977,Luis,Bustos,M,luis.bustos@universidadvirtual.edu.ar,Argentina,Santa Fe,3,8,3,22,1,2,76
+978,Elías,Falcón,M,elías.falcón@universidadvirtual.edu.ar,Argentina,Misiones,1,81,4,86,4,11,8,14
+979,Vanesa,Padilla,F,vanesa.padilla@universidadvirtual.edu.ar,Argentina,San Juan,3,57,2,92,2,84,7,89
+980,Thiago,Arce,M,thiago.arce@universidadvirtual.edu.ar,Argentina,Santiago del Estero,4,71,4,71,2,15,4,1
+981,Facundo,Urbina,M,facundo.urbina@universidadvirtual.edu.ar,Argentina,Jujuy,7,93,2,48,1,09,3,71
+982,Álvaro,Bravo,M,álvaro.bravo@universidadvirtual.edu.ar,Argentina,La Pampa,7,73,5,08,1,76,7,37
+983,Abril,Valladares,F,abril.valladares@universidadvirtual.edu.ar,Argentina,Neuquén,7,88,1,05,4,82,9,33
+984,Ramiro,Jáuregui,M,ramiro.jáuregui@universidadvirtual.edu.ar,Argentina,Neuquén,1,24,8,7,4,72,9,89
+985,Tamara,Martínez,F,tamara.martínez@universidadvirtual.edu.ar,Argentina,Tucumán,2,07,1,86,2,67,2,41
+986,Lourdes,Gómez,F,lourdes.gómez@universidadvirtual.edu.ar,Argentina,Catamarca,9,22,8,61,9,9,5,01
+987,Ángeles,Silva,F,ángeles.silva@universidadvirtual.edu.ar,Argentina,Río Negro,7,61,4,53,5,82,6,99
+988,Ailén,Urbina,F,ailén.urbina@universidadvirtual.edu.ar,Argentina,Neuquén,9,45,1,73,3,49,2,69
+989,Adrián,Almada,M,adrián.almada@universidadvirtual.edu.ar,Argentina,Santa Cruz,5,79,4,51,3,13,6,14
+990,Florencia,Reyes,F,florencia.reyes@universidadvirtual.edu.ar,Argentina,La Rioja,9,02,7,24,1,86,8,45
+991,Brenda,Olivares,F,brenda.olivares@universidadvirtual.edu.ar,Argentina,Catamarca,5,35,5,51,1,27,1,89
+992,Lidia,Vargas,F,lidia.vargas@universidadvirtual.edu.ar,Argentina,Chaco,4,65,8,59,1,64,4,11
+993,Iván,Quiroz,M,iván.quiroz@universidadvirtual.edu.ar,Argentina,Formosa,6,38,8,55,6,79,8,51
+994,Adrián,Tobar,M,adrián.tobar@universidadvirtual.edu.ar,Argentina,Tucumán,8,72,3,6,9,45,8,24
+995,Máximo,Gaytán,M,máximo.gaytán@universidadvirtual.edu.ar,Argentina,Buenos Aires,9,48,1,47,8,13,3,18
+996,Catalina,Aguayo,F,catalina.aguayo@universidadvirtual.edu.ar,Argentina,Entre Ríos,5,15,4,7,6,55,3,96
+997,Rafael,Flores,M,rafael.flores@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,6,28,3,27,1,29,2,88
+998,Manuel,Huerta,M,manuel.huerta@universidadvirtual.edu.ar,Argentina,Neuquén,4,91,3,31,7,41,8,33
+999,Brian,Guerrero,M,brian.guerrero@universidadvirtual.edu.ar,Argentina,Córdoba,5,21,4,6,2,7,5,74
+1000,Bruno,Del Campo,M,bruno.del campo@universidadvirtual.edu.ar,Argentina,Tierra del Fuego,3,82,5,5,7,01,2,12
