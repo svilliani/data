@@ -1,0 +1,126 @@
+inicio	>	Hola a todos, buen día, espero que estén muy bien. Comenzamos con las actividades de hoy
+salida	>	Muchas gracias por participar, ha sido un placer. Nos vemos mañana, que descansen
+inicio	>	Buenos días compañeros, bienvenidos a esta nueva jornada. Listos para empezar
+salida	>	Perfecto, hasta aquí llegamos por hoy. Excelente trabajo de todos, buenas noches
+inicio	>	Qué tal amigos, un gusto saludarlos. Arrancamos con energía esta mañana
+salida	>	Bueno, me despido por hoy. Gracias por acompañarme, hasta la próxima
+inicio	>	Hola equipo, espero que hayan tenido buen descanso. Empezamos las tareas
+salida	>	Ha sido una jornada productiva. Los felicito a todos, nos vemos pronto
+inicio	>	Buenos días familia, bienvenidos todos. Vamos a dar lo mejor de nosotros
+salida	>	Excelente participación de todos. Me retiro, que tengan linda noche
+inicio	>	Hola chicos, como están el día de hoy. Preparados para las actividades
+salida	>	Terminamos por hoy, muchas gracias por el esfuerzo. Descansen bien
+inicio	>	Buenas tardes, un placer estar con ustedes nuevamente. Comencemos
+salida	>	Hasta aquí por esta tarde. Ha sido genial trabajar juntos, adiós
+inicio	>	Qué tal grupo, espero que estén motivados. Iniciemos con todo
+salida	>	Me despido con mucho cariño. Excelente día para todos, hasta mañana
+inicio	>	Hola comunidad, bienvenidos sean todos. Vamos a comenzar ya
+salida	>	Perfecto trabajo el de hoy. Los veo mañana temprano, buenas noches
+inicio	>	Buenos días colegas, listos para una nueva aventura. Empecemos
+salida	>	Ha sido un día increíble. Gracias por todo, nos vemos después
+inicio	>	Hola amigos, espero que vengan con las mejores energías. Arranquemos
+salida	>	Bueno, hasta acá llego hoy. Que todos tengan dulces sueños
+inicio	>	Buenas mañanas, bienvenidos a todos los participantes. Comencemos la jornada
+salida	>	Excelente desempeño de todos. Me retiro satisfecho, hasta luego
+inicio	>	Qué tal equipo, espero verlos activos y participativos. Vamos
+salida	>	Terminamos con éxito otra sesión. Gracias por acompañarme, adiós
+inicio	>	Hola grupo, un gusto encontrarlos aquí. Preparados para trabajar
+salida	>	Ha sido un placer compartir este tiempo. Nos vemos en la próxima
+inicio	>	Buenos días a todos, bienvenidos cordialmente. Iniciemos con alegría
+salida	>	Perfecto cierre de actividades. Que descansen y sueñen bonito
+inicio	>	Hola familia, como han estado todos. Listos para dar el máximo
+salida	>	Excelente jornada la de hoy. Los abrazo virtualmente, hasta pronto
+inicio	>	Buenas tardes compañeros, un honor tenerlos aquí. Empecemos ya
+salida	>	Bueno amigos, me despido por esta tarde. Que tengan linda noche
+inicio	>	Qué tal chicos, espero que estén llenos de energía. Arranquemos
+salida	>	Ha sido fantástico trabajar con ustedes. Nos vemos mañana temprano
+inicio	>	Hola comunidad, bienvenidos a esta nueva experiencia. Comencemos
+salida	>	Hasta aquí por hoy queridos amigos. Descansen y cuídense mucho
+inicio	>	Buenos días equipo, espero que vengan motivados. Vamos a empezar
+salida	>	Perfecto trabajo en equipo. Me retiro contento, buenas noches
+inicio	>	Hola grupo, un placer saludarlos nuevamente. Preparados para iniciar
+salida	>	Excelente participación de todos. Hasta la vista, que descansen
+inicio	>	Buenas mañanas familia, bienvenidos con mucho cariño. Empecemos
+salida	>	Ha sido un día productivo y alegre. Los veo pronto, adiós
+inicio	>	Qué tal amigos, como se encuentran hoy. Listos para las tareas
+salida	>	Terminamos exitosamente. Gracias por su dedicación, hasta mañana
+inicio	>	Hola colegas, espero que estén en su mejor momento. Arranquemos
+salida	>	Bueno, hasta aquí llegamos. Ha sido genial, que tengan buena noche
+inicio	>	Buenos días comunidad, un gusto tenerlos conmigo. Vamos a comenzar
+salida	>	Perfecto cierre de jornada. Los felicito a todos, nos vemos después
+inicio	>	Hola equipo, bienvenidos sean todos ustedes. Preparados para iniciar
+salida	>	Excelente trabajo el realizado. Me despido con alegría, hasta luego
+inicio	>	Buenas tardes grupo, espero que vengan con ganas. Empecemos ya
+salida	>	Ha sido una tarde maravillosa. Gracias por todo, buenas noches
+inicio	>	Qué tal familia, un honor compartir con ustedes. Comencemos
+salida	>	Hasta aquí por esta sesión. Que descansen y sueñen lindo
+inicio	>	Hola amigos, como están todos el día de hoy. Vamos a arrancar
+salida	>	Terminamos con gran éxito. Los abrazo fuerte, hasta la próxima
+inicio	>	Buenos días chicos, bienvenidos cordialmente. Listos para empezar
+salida	>	Perfecto desempeño de todos. Me retiro feliz, que descansen bien
+inicio	>	Buenas mañanas equipo, espero verlos activos. Iniciemos la jornada
+salida	>	Excelente colaboración de todos. Nos vemos mañana, buenas noches
+inicio	>	Hola comunidad, un placer estar aquí con ustedes. Arranquemos
+salida	>	Ha sido un día fantástico. Gracias por acompañarme, adiós queridos
+inicio	>	Qué tal colegas, bienvenidos a esta nueva aventura. Empecemos
+salida	>	Bueno amigos, hasta aquí por hoy. Que tengan dulces sueños
+inicio	>	Hola grupo, espero que estén llenos de energía positiva. Vamos
+salida	>	Terminamos otra jornada exitosa. Los veo pronto, hasta luego
+salida	>	Me despido con mucho cariño de todos. Que tengan bella noche
+salida	>	Hasta aquí llegamos amigos. Ha sido genial, nos vemos después
+salida	>	Bueno familia, me retiro por hoy. Descansen y cuídense mucho
+salida	>	Excelente trabajo realizado. Gracias por todo, hasta mañana
+salida	>	Perfecto cierre de actividades. Los abrazo a todos, adiós
+salida	>	Ha sido una jornada increíble. Nos vemos pronto, buenas noches
+salida	>	Terminamos exitosamente otro día. Que sueñen bonito, hasta luego
+salida	>	Me despido satisfecho del trabajo. Gracias por participar, adiós
+salida	>	Bueno chicos, hasta aquí por esta tarde. Que descansen bien
+salida	>	Excelente participación de todos hoy. Los veo mañana, buenas noches
+salida	>	Ha sido un placer compartir este tiempo. Hasta la próxima familia
+salida	>	Perfecto desempeño el de todos. Me retiro contento, que descansen
+salida	>	Terminamos con gran éxito esta sesión. Nos vemos después, adiós
+salida	>	Bueno amigos, me despido por hoy. Que tengan dulces sueños
+salida	>	Excelente colaboración de todo el equipo. Hasta luego, buenas noches
+salida	>	Ha sido fantástico trabajar juntos. Los abrazo virtualmente, adiós
+salida	>	Hasta aquí por esta jornada queridos. Descansen y sueñen lindo
+salida	>	Me retiro muy feliz con el trabajo. Gracias por todo, hasta mañana
+salida	>	Bueno familia, terminamos por hoy. Que tengan linda noche
+salida	>	Excelente esfuerzo de todos ustedes. Nos vemos pronto, que descansen
+salida	>	Ha sido un día productivo y alegre. Los veo después, hasta luego
+salida	>	Perfecto trabajo en equipo realizado. Me despido, buenas noches
+salida	>	Terminamos otra sesión exitosa. Gracias por acompañarme, adiός
+salida	>	Bueno chicos, hasta aquí llegamos. Que tengan dulces sueños
+salida	>	Excelente dedicación mostrada por todos. Nos vemos mañana, adiós
+salida	>	Ha sido maravilloso estar con ustedes. Hasta la próxima, que descansen
+salida	>	Me despido con alegría del corazón. Gracias por todo, buenas noches
+salida	>	Bueno amigos, terminamos por esta tarde. Los veo pronto, hasta luego
+salida	>	Perfecto cierre de nuestra jornada. Que sueñen bonito, adiós familia
+salida	>	Excelente trabajo el de hoy amigos. Me retiro satisfecho, hasta mañana
+salida	>	Ha sido un placer enorme trabajar. Nos vemos después, que descansen
+salida	>	Hasta aquí por hoy queridos colegas. Gracias por todo, buenas noches
+salida	>	Bueno equipo, me despido contento. Que tengan bella noche, adiós
+salida	>	Terminamos exitosamente las actividades. Los abrazo fuerte, hasta luego
+salida	>	Excelente participación y compromiso mostrado. Nos vemos mañana, que descansen
+salida	>	Ha sido fantástico compartir este tiempo. Me despido feliz, buenas noches
+salida	>	Perfecto desempeño de todo el grupo. Hasta la próxima familia, adiós
+salida	>	Bueno amigos, hasta aquí por hoy. Descansen bien y sueñen lindo
+salida	>	Me retiro muy contento con el trabajo. Gracias por acompañarme, hasta luego
+salida	>	Excelente jornada la que tuvimos hoy. Nos vemos pronto, buenas noches
+salida	>	Ha sido increíble trabajar con ustedes. Los veo mañana, que descansen
+salida	>	Terminamos con gran éxito otra vez. Me despido cariñosamente, adiós
+salida	>	Bueno familia, hasta aquí llegamos. Que tengan dulces sueños, hasta luego
+inicio	>	Hola buenos días, espero que estén preparados para una gran jornada
+inicio	>	Buenas tardes amigos, bienvenidos todos. Vamos a dar inicio
+inicio	>	Qué tal equipo, espero que vengan motivados. Empecemos con todo
+inicio	>	Hola comunidad, un gusto saludarlos. Listos para comenzar las tareas
+inicio	>	Buenos días colegas, bienvenidos cordialmente. Arranquemos ya
+inicio	>	Buenas mañanas grupo, como están todos. Preparados para iniciar
+inicio	>	Hola familia, espero que hayan descansado bien. Comencemos
+inicio	>	Qué tal chicos, un placer tenerlos aquí. Vamos a empezar
+inicio	>	Buenos días comunidad, bienvenidos sean todos. Iniciemos la jornada
+inicio	>	Hola equipo, espero verlos activos hoy. Arranquemos con energía
+inicio	>	Buenas tardes amigos, como se encuentran. Listos para las actividades
+inicio	>	Qué tal grupo, bienvenidos nuevamente. Empecemos con alegría
+inicio	>	Hola colegas, espero que estén motivados. Vamos a comenzar ya
+inicio	>	Buenos días familia, un honor estar con ustedes. Preparados para iniciar
+inicio	>	Buenas mañanas chicos, bienvenidos todos. Comencemos esta nueva jornada
